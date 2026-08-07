@@ -3,15 +3,32 @@
     "minecraft:picked_up": {
       "minecraft:pointed_dripstone": 9
     },
+    "minecraft:used": {
+      "minecraft:hay_block": 36,
+      "minecraft:diamond_block": 9,
+      "minecraft:grass_block": 67,
+      "minecraft:barrier": 5,
+      "minecraft:spruce_stairs": 27,
+      "minecraft:command_block": 1,
+      "minecraft:pointed_dripstone": 3,
+      "minecraft:beacon": 1,
+      "minecraft:pale_hanging_moss": 27
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 50389,
-      "minecraft:walk_one_cm": 20,
-      "minecraft:total_world_time": 50389,
+      "minecraft:talked_to_villager": 3,
+      "minecraft:time_since_rest": 98325,
+      "minecraft:walk_one_cm": 23509,
       "minecraft:leave_game": 1,
-      "minecraft:fly_one_cm": 11964,
-      "minecraft:play_time": 50389,
-      "minecraft:jump": 2,
-      "minecraft:time_since_death": 50389
+      "minecraft:walk_under_water_one_cm": 1577,
+      "minecraft:play_time": 98325,
+      "minecraft:interact_with_beacon": 4,
+      "minecraft:jump": 38,
+      "minecraft:time_since_death": 98325,
+      "minecraft:sprint_one_cm": 4114,
+      "minecraft:total_world_time": 98325,
+      "minecraft:fly_one_cm": 82005,
+      "minecraft:crouch_one_cm": 2398,
+      "minecraft:sneak_time": 1656
     }
   },
   "DataVersion": 4903
