@@ -3904,3 +3904,138 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 [18:43:40] [Server thread/WARN]: [net.minecraft.world.entity.EntityType] Serialization errors:
 : Failed to decode value '[-1b,0,5b,0b]' from field 'Motion': Input is not a list of 3 elements
 [18:43:45] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0 0
+[18:47:06] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[18:47:06] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[18:48:51] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:48:51] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:48:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:48:58] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:49:11] [Server thread/INFO]: Xautral issued server command: /damage @n[type=zombie] 1 minecraft:mob_attack by @n[type=minecraft:skeleton]
+[18:49:11] [Server thread/INFO]: [Xautral: Applied 1.0 damage to Zombie]
+[18:49:28] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:49:28] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:49:29] [Server thread/INFO]: volcon2 lost connection: Timed out
+[18:49:29] [Server thread/INFO]: [Volcanos] volcon2 left the game
+[18:51:26] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:51:26] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:51:29] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:51:29] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:52:35] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton]
+[18:52:35] [Server thread/INFO]: [Xautral: Teleported Xautral to Skeleton]
+[18:52:46] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombie
+[18:52:46] [Server thread/INFO]: [Xautral: Summoned new Zombie]
+[18:52:49] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:52:49] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:52:51] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:52:51] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:53:26] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[18:53:26] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[18:54:17] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton
+[18:54:17] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[18:54:21] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombie
+[18:54:21] [Server thread/INFO]: [Xautral: Summoned new Zombie]
+[18:54:23] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:54:23] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:54:24] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:54:24] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:54:33] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:54:33] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:54:42] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:54:42] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:57:22] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:57:22] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:57:23] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:57:23] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Crossbow]]
+[18:57:26] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:57:26] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:57:36] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[18:57:36] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[18:57:38] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:57:38] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:57:46] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:57:46] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:57:52] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:zombie]
+[18:57:52] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[18:58:25] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:25] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:26] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:26] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:27] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:27] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:28] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:28] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:29] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:29] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:30] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:30] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:31] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:31] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:38] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 1
+[18:58:38] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:39] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 1
+[18:58:39] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:40] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 1
+[18:58:40] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:43] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:43] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:47] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 15
+[18:58:47] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:48] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 15
+[18:58:48] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:50] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 -1 0 0 15
+[18:58:50] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:58:54] [Server thread/INFO]: Xautral issued server command: /particle minecraft:end_rod ~ ~ ~ 0 0 0 0 1
+[18:58:54] [Server thread/INFO]: [Xautral: Displaying particle minecraft:end_rod]
+[18:59:15] [User Authenticator #6/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[18:59:19] [Server thread/INFO]: [Volcanos] volcon2 joined the game
+[18:59:19] [Server thread/INFO]: volcon2[/127.78.109.241:35047] logged in with entity id 37573 at ([minecraft:overworld]-18984.69999998808, 51.0, 4737.699999988079)
+[18:59:51] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> mira mierdon2
+[18:59:52] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[18:59:52] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[18:59:59] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:00:01] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:00:08] [Async Chat Thread - #37/INFO]: [Not Secure] <volcon2> hola xaudion
+[19:00:21] [Async Chat Thread - #37/INFO]: [Not Secure] <volcon2> estos esclavos me causan problemas
+[19:00:24] [Async Chat Thread - #37/INFO]: [Not Secure] <volcon2> no bajan del agua
+[19:00:26] [Async Chat Thread - #37/INFO]: [Not Secure] <volcon2> las perrita
+[19:00:44] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> wey
+[19:00:49] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> hice las flechas shulker
+[19:00:49] [Async Chat Thread - #37/INFO]: [Not Secure] <volcon2> que
+[19:00:51] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> o buen
+[19:00:52] [Async Chat Thread - #38/INFO]: [Not Secure] <volcon2> no
+[19:00:53] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> maldicion
+[19:00:58] [Server thread/INFO]: Villager Villager['Villager'/38625, uuid='64ea64f7-58d5-48fb-9af2-f8d36d21ca51', l='ServerLevel[world]', x=-2363.56, y=42.63, z=583.64, cpos=[-148, 36], tl=37, v=true] died, message: 'Villager tried to swim in lava'
+[19:01:04] [Server thread/INFO]: Villager Villager['Villager'/38627, uuid='3be0f6cf-3150-4a13-a1a8-b2781a7c957f', l='ServerLevel[world]', x=-2363.56, y=42.56, z=583.30, cpos=[-148, 36], tl=167, v=true] died, message: 'Villager tried to swim in lava'
+[19:01:22] [Server thread/INFO]: Villager Villager['Villager'/38621, uuid='e3bfa9b6-0e75-4f69-aba4-492cd29c48f3', l='ServerLevel[world]', x=-2363.72, y=42.86, z=583.37, cpos=[-148, 36], tl=523, v=true] died, message: 'Villager tried to swim in lava'
+[19:01:33] [Server thread/INFO]: Villager Villager['Villager'/37596, uuid='d4347944-b8fe-4db6-a6bd-336de369899e', l='ServerLevel[world]', x=-18985.43, y=50.05, z=4737.68, cpos=[-1187, 296], tl=2675, v=true] died, message: 'Villager drowned'
+[19:01:43] [Async Chat Thread - #38/INFO]: [Not Secure] <volcon2> el idiota se murio
+[19:01:50] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> Survivalcraft 2 >> todo minecraft
+[19:01:51] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:01:51] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:01:54] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> que pedo
+[19:01:55] [Async Chat Thread - #38/INFO]: [Not Secure] <Xautral> como asi
+[19:01:57] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:02:13] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:02:52] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:02:52] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:02:54] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:02:59] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> molcajeta
+[19:03:00] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:03:40] [Async Chat Thread - #39/INFO]: [Not Secure] <Xautral> quee
+[19:03:40] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:03:43] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> NOO
+[19:03:43] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:03:44] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> por que este aldeano no deja de bailar
+[19:03:50] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> ME ENCONTR EUN SULFUR CUBE
+[19:03:58] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> Y ME SALIÓ LITERALMENTE SU NAME TAG
+[19:04:00] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> NO LO HABIA VISTO
+[19:04:00] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> wtf
+[19:04:03] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> no se metio
+[19:04:09] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> Y ME PONGO EN ESPECTADOR
+[19:04:10] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> Y NO ESTAAA
+[19:04:15] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> a ver perrita
+[19:04:18] [Server thread/INFO]: Xautral issued server command: /summon sulfur_cube
+[19:04:18] [Server thread/INFO]: [Xautral: Summoned new Sulfur Cube]
+[19:04:22] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> wooow
+[19:04:52] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[19:04:54] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> no s duerme en la cama del jefe cabronm
