@@ -1,11 +1,11 @@
-[14:53:14] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
-[14:53:14] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-84-main@26e81c4 (2026-07-26T18:11:33Z) for Minecraft 26.2
-[14:53:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:53:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[14:53:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[17:21:10] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
+[17:21:10] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-84-main@26e81c4 (2026-07-26T18:11:33Z) for Minecraft 26.2
+[17:21:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:21:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[17:21:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - ItemEdit (3.7.10), LoginSecurity (3.2.0), OpenInv (5.3.3), SkinsRestorer (15.12.5), ViaBackwards (5.11.0), ViaVersion (5.11.0), sMusic (1.0)
-[14:53:20] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[14:53:20] [ServerMain/WARN]: Failed to parse resource pack prompt 'JungleSMP Music Pack'
+[17:21:16] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:21:16] [ServerMain/WARN]: Failed to parse resource pack prompt 'JungleSMP Music Pack'
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 1 path $
 See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.14.0.jar:?]
@@ -30,14 +30,14 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:545) ~[gson-2.14.0.jar:?]
 	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.14.0.jar:?]
 	... 13 more
-[14:53:20] [ServerMain/WARN]: You have used the Paper command line EULA agreement flag.
-[14:53:20] [ServerMain/WARN]: By using this setting you are indicating your agreement to Mojang's EULA (https://aka.ms/MinecraftEULA).
-[14:53:20] [ServerMain/WARN]: If you do not agree to the above EULA please stop your server and remove this flag immediately.
-[14:53:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[14:53:21] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 984.4ms
-[14:53:23] [ServerMain/INFO]: Loaded 1585 recipes
-[14:53:23] [ServerMain/INFO]: Loaded 1688 advancements
-[14:53:23] [ServerMain/WARN]: Failed to parse resource pack prompt 'JungleSMP Music Pack'
+[17:21:16] [ServerMain/WARN]: You have used the Paper command line EULA agreement flag.
+[17:21:16] [ServerMain/WARN]: By using this setting you are indicating your agreement to Mojang's EULA (https://aka.ms/MinecraftEULA).
+[17:21:16] [ServerMain/WARN]: If you do not agree to the above EULA please stop your server and remove this flag immediately.
+[17:21:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:21:16] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 550.1ms
+[17:21:19] [ServerMain/INFO]: Loaded 1585 recipes
+[17:21:19] [ServerMain/INFO]: Loaded 1688 advancements
+[17:21:19] [ServerMain/WARN]: Failed to parse resource pack prompt 'JungleSMP Music Pack'
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 1 path $
 See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.14.0.jar:?]
@@ -69,466 +69,311 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:545) ~[gson-2.14.0.jar:?]
 	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.14.0.jar:?]
 	... 20 more
-[14:53:23] [Server thread/INFO]: Starting minecraft server version 26.2
-[14:53:23] [Server thread/INFO]: Loading properties
-[14:53:23] [Server thread/INFO]: This server is running Paper version 26.2-84-main@26e81c4 (2026-07-26T18:11:33Z) (Implementing API version 26.2.build.84-stable)
-[14:53:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:53:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:53:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:53:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[14:53:24] [Server thread/INFO]: Default game type: SURVIVAL
-[14:53:24] [Server thread/INFO]: Generating keypair
-[14:53:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:53:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:53:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [OpenInv] Loading 1 libraries... please wait
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [OpenInv] Loaded library /workspaces/Tlatekuaserver/libraries/org/xerial/sqlite-jdbc/3.49.1.0/sqlite-jdbc-3.49.1.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-api/5.1.1/adventure-api-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-key/5.1.1/adventure-key-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/org/jetbrains/annotations/26.1.0/annotations-26.1.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-bukkit/4.4.1/adventure-platform-bukkit-4.4.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-api/4.4.1/adventure-platform-api-4.4.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-bungeecord/4.4.1/adventure-text-serializer-bungeecord-4.4.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-nbt/4.21.0/adventure-nbt-4.21.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.21.0/adventure-text-serializer-gson-legacy-impl-4.21.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-json-legacy-impl/4.21.0/adventure-text-serializer-json-legacy-impl-4.21.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-facet/4.4.1/adventure-platform-facet-4.4.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-viaversion/4.4.1/adventure-platform-viaversion-4.4.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-minimessage/5.1.1/adventure-text-minimessage-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-gson/5.1.1/adventure-text-serializer-gson-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-json/5.1.1/adventure-text-serializer-json-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-commons/5.1.1/adventure-text-serializer-commons-5.1.1.jar
-[14:53:25] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-legacy/5.1.1/adventure-text-serializer-legacy-5.1.1.jar
-[14:53:26] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
-[14:53:26] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
-[14:53:27] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[14:53:27] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[14:53:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
-[14:53:27] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.5
-[14:53:27] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.3.3
-[14:53:27] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.10
-[14:53:27] [Server thread/INFO]: [sMusic] Loading server plugin sMusic v1.0
-[14:53:27] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[14:53:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:53:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
-[14:53:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.2.0.
-[14:53:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:53:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:53:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:53:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:53:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:53:29] [Server thread/INFO]: Preparing level "world"
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.5
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 98b9488
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:53:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
-[14:53:30] [Server thread/INFO]: Loading 25 persistent chunks for level 'minecraft:overworld'...
-[14:53:30] [Server thread/INFO]: Preparing spawn area: 28%
-[14:53:30] [Server thread/INFO]: Prepared spawn area in 794 ms
-[14:53:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[14:53:30] [Server thread/INFO]: Prepared spawn area in 1 ms
-[14:53:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[14:53:30] [Server thread/INFO]: Prepared spawn area in 1 ms
-[14:53:30] [Server thread/INFO]: Done preparing level "world" (1.591s)
-[14:53:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
-[14:53:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
-[14:53:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
-[14:53:30] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.3.3
-[14:53:31] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.10
-[14:53:31] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[14:53:31] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[14:53:31] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[14:53:31] [Server thread/INFO]: [ItemEdit] # Enabled (took 263 ms)
-[14:53:31] [Server thread/INFO]: [sMusic] Enabling sMusic v1.0
-[14:53:31] [Server thread/INFO]:      _____  
-[14:53:31] [Server thread/INFO]:     / ____| 
-[14:53:31] [Server thread/INFO]:    | (___   
-[14:53:31] [Server thread/INFO]:     \___ \  
-[14:53:31] [Server thread/INFO]:     ____) | 
-[14:53:31] [Server thread/INFO]:    |_____/  
-[14:53:31] [Server thread/INFO]: 
-[14:53:31] [Server thread/INFO]:  sMusic [Enabled ✓]
-[14:53:31] [Server thread/INFO]:  by x.com/SunnyAim_
-[14:53:31] [Server thread/INFO]: 
-[14:53:31] [Server thread/INFO]: [sMusic] 🔁 No changes detected (files/config), keeping existing pack.
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[14:53:31] [Server thread/WARN]: [LoginSecurity] "LoginSecurity v3.2.0" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "public void com.lenis0012.bukkit.loginsecurity.modules.general.PlayerListener.onPlayerSpawn(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [lenis0012].
-[14:53:31] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[14:53:31] [Server thread/INFO]: [spark] Starting background profiler...
-[14:53:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:53:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:53:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:53:36] [Server thread/INFO]: Running delayed init tasks
-[14:53:36] [Server thread/INFO]: Done (23.508s)! For help, type "help"
-[14:53:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[14:53:36] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 26 builds behind ***
-[14:53:36] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
-[15:06:49] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[15:06:49] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
-[15:07:56] [Server thread/INFO]: Xautral joined the game
-[15:07:56] [Server thread/INFO]: Xautral[/127.78.182.87:43493] logged in with entity id 14 at ([minecraft:overworld]14.674402840111396, -15.0, 11.721662947229898)
-[15:09:07] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.grinchultimatum master @a ~ ~ ~ 0.7 1 1
-[15:09:07] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.grinchultimatum to Xautral]
-[15:11:20] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.augustusrises master @a ~ ~ ~ 0.7 0.8 1
-[15:11:20] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.augustusrises to Xautral]
-[15:15:25] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.villager.work_mason master
-[15:15:25] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.villager.work_mason to Xautral]
-[15:15:27] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.villager.work_mason master
-[15:15:27] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.villager.work_mason to Xautral]
-[15:15:38] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.ultimatum master @a ~ ~ ~ 0.8 0.9 1
-[15:15:38] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.ultimatum to Xautral]
-[15:16:33] [Server thread/INFO]: [Not Secure] [@] Hard Mode: ON
-[15:16:36] [Server thread/INFO]: [Not Secure] [@] Hard Mode: ON
-[15:16:43] [Server thread/INFO]: [Not Secure] [@] Hard Mode: ON
-[15:16:43] [Server thread/INFO]: [Not Secure] [@] Hard Mode: ON
-[15:19:15] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[15:19:33] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:resistance infinite 5 true
-[15:19:33] [Server thread/INFO]: [Xautral: Applied effect Resistance to Xautral]
-[15:19:41] [User Authenticator #1/INFO]: UUID of player Slimegolembros is fb02b546-7f6c-3666-aaca-2e861bcf597e
-[15:19:57] [Server thread/INFO]: Slimegolembros joined the game
-[15:19:57] [Server thread/INFO]: Slimegolembros[/127.111.223.202:60549] logged in with entity id 1574 at ([minecraft:overworld]5.5, 68.0, 2.5)
-[15:20:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no te conozco
-[15:20:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> trozo
-[15:20:12] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembros
-[15:20:12] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembros]
-[15:20:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> admin o jugador?
-[15:20:17] [Server thread/INFO]: [Slimegolembros: Set own game mode to Creative Mode]
-[15:20:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> spanish o español?
-[15:20:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembros> admin
-[15:20:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembros> xau mi principal es la de 1 s
-[15:20:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembros> las demas que tienen ss o sss
-[15:20:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembros> son multis
-[15:20:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembros> en jugador
-[15:20:57] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.grinchultimatum master @a ~ ~ ~ 0.8 1 1
-[15:20:57] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.grinchultimatum to 2 players]
-[15:21:16] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wooden_spear
-[15:21:16] [Server thread/INFO]: [Xautral: Gave 1 [Wooden Spear] to Xautral]
-[15:21:21] [Server thread/INFO]: Xautral issued server command: /ie enchant sharpness 50
-[15:21:36] [Server thread/INFO]: Xautral issued server command: /locate biome minecraft:plains
-[15:21:36] [Server thread/INFO]: Locating element minecraft:plains took 105 ms
-[15:21:41] [Server thread/INFO]: Xautral issued server command: /tp @s 50 ~ -386
-[15:21:41] [Server thread/INFO]: [Xautral: Teleported Xautral to 50.500000, 73.000000, -385.500000]
-[15:21:44] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[15:21:49] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[15:22:09] [Async Chat Thread - #3/INFO]: [Not Secure] <Slimegolembros> hay alguien que ya se halla unido?
-[15:22:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> nop
-[15:22:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ya pienso cerrar el server otra vez
-[15:22:23] [Async Chat Thread - #3/INFO]: [Not Secure] <Slimegolembros> nooo
-[15:22:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Slimegolembros> digo por ejemplo plechy
-[15:22:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembros> o alan
-[15:22:35] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
-[15:22:36] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembros> flameemblem
-[15:22:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
-[15:22:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembros> nadie
-[15:22:41] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ese wey no se une
-[15:23:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembros> me voy a unir en mi cuenta jugador
-[15:23:39] [Server thread/INFO]: Xautral has made the advancement [Voluntary Exile]
-[15:23:58] [User Authenticator #2/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
-[15:24:01] [Server thread/INFO]: Slimegolembross joined the game
-[15:24:01] [Server thread/INFO]: Slimegolembross[/127.111.223.202:47847] logged in with entity id 2897 at ([minecraft:overworld]10.5, 67.0, 3.5)
-[15:24:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> kawesar?
-[15:24:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> no quiero crear una nueva
-[15:24:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> te independizas?
-[15:24:41] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> em
-[15:24:52] [Server thread/INFO]: Xautral issued server command: /item replace entity Xautral armor.head from entity Xautral weapon
-[15:24:52] [Server thread/INFO]: [Xautral: Replaced a slot on Xautral with [Ominous Banner]]
-[15:25:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si o no
-[15:25:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> puedo jugar esta en una nacio que cree ahora y con otra multi seguir en kawasear?
-[15:25:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
-[15:25:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> bruh
-[15:25:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pero si ser aliado de aksewar
-[15:25:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> pues quiero crear una nueva
-[15:25:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> noombre?
-[15:25:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> pero ya hablare con plechy pa ser aliados
-[15:26:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> Dinastia Umbra
-[15:26:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> en negro
-[15:26:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ok
-[15:26:15] [Server thread/INFO]: Xautral issued server command: /team add Umbra {"text":"[Umbra]","color":"dark_gray"}
-[15:26:15] [Server thread/INFO]: [Xautral: Created team [[Umbra]]]
-[15:26:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> así en español?
-[15:26:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ok
-[15:26:41] [Server thread/INFO]: Xautral issued server command: /team modify Umbra prefix {"text":"[Dinastía Umbra] ","color":"dark_gray"}
-[15:26:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> ci
-[15:26:47] [Server thread/INFO]: Xautral issued server command: /team join Umbra Slimegolembross
-[15:26:47] [Server thread/INFO]: [Xautral: Added [Dinastía Umbra] Slimegolembross to team [[Umbra]]]
-[15:26:56] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:golden_carrot 128
-[15:26:56] [Server thread/INFO]: [Xautral: Gave 128 [Golden Carrot] to Xautral]
-[15:27:11] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
-[15:27:11] [Server thread/INFO]: [Xautral: Teleported Xautral to [Dinastía Umbra] Slimegolembross]
-[15:27:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> las pajas
-[15:27:25] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> eso es
-[15:27:36] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.augustusrises master @a ~ ~ ~ 0.7 1 1
-[15:27:36] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.augustusrises to 3 players]
-[15:27:57] [Server thread/INFO]: Xautral issued server command: /ie enchant lunge 10
-[15:27:59] [Server thread/INFO]: Xautral issued server command: /ie enchant lunge 5
-[15:28:03] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:saturation infinite 25 true
-[15:28:03] [Server thread/INFO]: [Xautral: Applied effect Saturation to Xautral]
-[15:28:07] [Server thread/INFO]: Xautral issued server command: /ie unbreakable true
-[15:28:39] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross has made the advancement [Stone Age]
-[15:29:03] [Server thread/INFO]: Slimegolembros issued server command: /effect give Slimegolembross minecraft:night_vision infinite 1 true
-[15:29:03] [Server thread/INFO]: [Slimegolembros: Applied effect Night Vision to [Dinastía Umbra] Slimegolembross]
-[15:29:22] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross has made the advancement [Getting an Upgrade]
-[15:29:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 409c2482-41e7-4bf2-9398-683db1e2cc79, mapped to Pig['Pig'/4735, uuid='409c2482-41e7-4bf2-9398-683db1e2cc79', l='ServerLevel[world]', x=-511.10, y=66.00, z=49.00, cpos=[-32, 3], tl=0, v=true], can't add Pig['Pig'/4750, uuid='409c2482-41e7-4bf2-9398-683db1e2cc79', l='ServerLevel[world]', x=-518.52, y=68.00, z=64.26, cpos=[-33, 4], tl=0, v=false]
-[15:29:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1efbb130-bfa0-4e8c-9feb-b6b114294042, mapped to Pig['Pig'/4736, uuid='1efbb130-bfa0-4e8c-9feb-b6b114294042', l='ServerLevel[world]', x=-511.10, y=67.00, z=55.00, cpos=[-32, 3], tl=0, v=true], can't add Pig['Pig'/4751, uuid='1efbb130-bfa0-4e8c-9feb-b6b114294042', l='ServerLevel[world]', x=-520.23, y=67.00, z=60.49, cpos=[-33, 3], tl=0, v=false]
-[15:29:47] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1412a659-aedb-46ed-a8fb-f08b06aff6a5, mapped to Pig['Pig'/4734, uuid='1412a659-aedb-46ed-a8fb-f08b06aff6a5', l='ServerLevel[world]', x=-509.00, y=66.00, z=48.90, cpos=[-32, 3], tl=0, v=true], can't add Pig['Pig'/4752, uuid='1412a659-aedb-46ed-a8fb-f08b06aff6a5', l='ServerLevel[world]', x=-512.11, y=67.00, z=58.65, cpos=[-33, 3], tl=0, v=false]
-[15:30:38] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.xtal master @a ~ ~ ~ 0.6 1 1
-[15:30:38] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.xtal to 3 players]
-[15:30:39] [Async Chat Thread - #5/INFO]: [Not Secure] <Slimegolembross> xau y tu que tas haciendo
-[15:30:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> haciendome pendejo
-[15:30:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> pero estaba programando un plataformero
-[15:30:51] [Async Chat Thread - #5/INFO]: [Not Secure] <Slimegolembross> a
-[15:30:51] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> me falta poco para subir su bet
-[15:30:59] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> Timpere es un proyecto muy grande que no puedo manejar en esta pc de mierda
-[15:31:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> pero ya tengo la premisa y personajes
-[15:31:21] [Server thread/INFO]: Slimegolembros issued server command: /tp Xautral
-[15:31:21] [Server thread/INFO]: [Slimegolembros: Teleported Slimegolembros to Xautral]
-[15:32:03] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross has made the advancement [Monster Hunter]
-[15:32:32] [Server thread/INFO]: Slimegolembros issued server command: /time set minecraft:day
-[15:32:32] [Server thread/INFO]: [Slimegolembros: Set minecraft:overworld to time marker minecraft:day]
-[15:32:56] [Server thread/INFO]: Slimegolembross lost connection: Disconnected
-[15:32:56] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross left the game
-[15:32:56] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Slimegolembross
-[15:33:03] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> tque p
-[15:33:15] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> que pedo
-[15:34:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> Slimegolembros?
-[15:35:17] [User Authenticator #3/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
-[15:35:20] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross joined the game
-[15:35:20] [Server thread/INFO]: Slimegolembross[/127.111.223.202:59441] logged in with entity id 11070 at ([minecraft:overworld]-47.684773825084434, 28.0, 66.17539419711552)
-[15:35:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembros> ya volvi
-[15:35:25] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Slimegolembross
-[15:35:25] [Server thread/INFO]: [Xautral: Teleported 11 entities to [Dinastía Umbra] Slimegolembross]
-[15:35:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> perdon
-[15:35:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> es que hay una amigo mio en mi casa
-[15:35:46] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.albertobalsalm master @a ~ ~ ~ 0.7 1 1
-[15:35:46] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.albertobalsalm to 3 players]
-[15:35:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> lleva ya 5 dias
-[15:35:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> wtf
-[15:35:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> pues va a viri contigo o q pdo
-[15:36:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> es hiperactivo y me estresa demasiado
-[15:36:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> se me acabo la bateria social el segundo dia
-[15:36:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> cuantos años tiene?
-[15:36:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> y le tuve que poner el mario party en mi switch 2 pa que mi madre juege con el
-[15:36:40] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> por que si no no puedo jugar tranquilo
-[15:36:50] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> sin que tenga que darle la pc a el pa que juege el
-[15:36:50] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> y por que lleva tantos putos dias en tu casa
-[15:37:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> pues porque su abuelo esta malito y sus padres estan con el en el hospital
-[15:37:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> no pus pobrecito
-[15:37:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> cuantos años tiene
-[15:37:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> pero claro su hermana esta en su casa el podria estar con ella perfectamente :V
-[15:37:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> 11
-[15:37:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> oye wey
-[15:37:40] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> de causalida
-[15:37:42] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> los ha cumplido el mes pasado
-[15:37:42] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> solo de casualidad
-[15:37:46] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> no le hacen bulliyng en la escuela?
-[15:37:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> sin ser ofensivo w
-[15:37:55] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> a el?
-[15:37:57] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> no pendejo a ti
-[15:37:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> cpus si wey
-[15:38:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> a el
-[15:38:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> por?
-[15:38:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> solo dime
-[15:38:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> no
-[15:38:14] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ah bueno
-[15:38:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> es tipico niño tiktoker we
-[15:38:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> no digas we
-[15:38:25] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> es alucín we?
-[15:38:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> que miedo we
-[15:38:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> partee su madre w
-[15:38:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> asi bin vergas w
-[15:38:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> me dan demasiado estres :V
-[15:38:43] [Server thread/INFO]: Xautral issued server command: /ie enchant looting 6
-[15:38:53] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Slimegolembross
-[15:38:53] [Server thread/INFO]: [Xautral: Teleported 17 entities to [Dinastía Umbra] Slimegolembross]
-[15:38:55] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> wey
-[15:39:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> qui
-[15:39:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> me di cuenta que soy el segundo miembro del servidor mas jóven
-[15:39:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> 13 años
-[15:39:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> andie d e aqui tiene 13
-[15:39:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> o menor
-[15:39:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> excepto t
-[15:39:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> excepto tu*
-[15:39:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> yo en 8 dias cumplo los 12 :)
-[15:39:24] [Server thread/INFO]: Xautral issued server command: /ie unbreakable true
-[15:40:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> bueno eso tu sabes niño tiktoker = salirse del juego al minuto porque se aburren, quieren todo, super hiperactivos amantes del football y siempre ver shorts
-[15:40:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ah ya
-[15:40:15] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ipad kids
-[15:40:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ya ves
-[15:40:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> esos niños me dan un puto estres
-[15:40:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> aqui en donde vivo se le llaman alucines
-[15:40:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> auqnue bueno
-[15:40:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> alucin es otro termino
-[15:40:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> a aqui yo les llamo niños tiktokers
-[15:40:53] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> el proemdi o de niños en la secundaria acá en méxico son niños que se creen narcos o queiren se narcos, les mama el futbol y siempre se meten en pedos
-[15:41:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> yap
-[15:41:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> bueno pues eso voy a borrar el chat pa que no venga y vea toda la conversacion
-[15:41:40] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.flim master @a ~ ~ ~ 0.7 1 1
-[15:41:40] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.flim to 3 players]
-[15:41:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> f3 + d
-[15:41:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> si ya se
-[15:41:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pendejo entonces
-[15:41:56] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> pero gracias
-[15:41:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> dnd
-[15:42:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ya no pendejo entonces
-[15:42:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> wey
-[15:42:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ?
-[15:42:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> tengo un vergo dep royctos
-[15:42:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> proyectos*
-[15:42:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ya ves xd
-[15:42:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> que veo
-[15:42:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> que si
-[15:42:35] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ay perdon
-[15:42:42] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> who is bro talking?
-[15:42:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> es que en españa eso significa como si pero muy de tu lado
-[15:43:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ¿?
-[15:43:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> "tengo un vergo de proyectos" = "si"
-[15:43:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> nada que eso significa que si muchos
-[15:43:18] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> vergo
-[15:43:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> pues si
-[15:43:24] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> acá signfica mucho
-[15:43:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> ayudame hace 2 dias me compre un juego en steam por 8 euros pa que jugara
-[15:44:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> my femboy roommate
-[15:44:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> le dije que no jugara mas de 2h
-[15:44:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> para yo poder devolverlo
-[15:44:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> y cuando vuelvo tenia 2h y 30 mins
-[15:44:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> bueno
-[15:44:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> cumplió su palabra
-[15:44:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> jugo 2 horas exactas
-[15:44:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> y ahora me acaba de decir mi madre que le compre otro juego en mi pc
-[15:44:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ella te da el dinero?
-[15:45:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> xau jugó 30 mins mas :V
-[15:45:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pues si wey pero le hubieras dicho que una hora exacta dejara de jugarlo
-[15:45:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no lo gasto yo del fondo que tengo en steam
-[15:45:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> zzzz
-[15:45:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> le dije que como jugara 1h y 30 mins
-[15:45:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> y que juego era?
-[15:45:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> uno de romper unas uchas de cerditos
-[15:45:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> qu8wfuwewef3f32 '
-[15:45:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> tipo incremental dopaminico
-[15:45:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ¿¿??
-[15:46:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> de casualidad no te sabes el nombre puñetón?
-[15:46:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> se llama bills must be paids
-[15:46:06] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross has made the advancement [Acquire Hardware]
-[15:46:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> "las cuetnas deben ser pagadas" :sob:
-[15:46:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> ci
-[15:46:24] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> comprale el super meat boy y ya
-[15:46:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> no le comprare nada
-[15:46:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> si ese wey esta hiper activo ahí smb se lo baja
-[15:46:49] [Server thread/INFO]: [Dinastía Umbra] Slimegolembross has made the advancement [Isn't It Iron Pick]
-[15:46:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> sabes que es lo peor
-[15:46:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> q
-[15:47:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> que hace 1h se fueron sus padres que estuvieron en micasa viendo como estaba
-[15:47:20] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Slimegolembross
-[15:47:20] [Server thread/INFO]: [Xautral: Teleported 139 entities to [Dinastía Umbra] Slimegolembross]
-[15:47:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> y cuando llegan me dice mi madre que ya se iria
-[15:47:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> cfff
-[15:47:28] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] Slimegolembross
-[15:47:28] [Server thread/INFO]: [Xautral: Teleported 21 entities to [Dinastía Umbra] Slimegolembross]
-[15:47:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> adivina
-[15:47:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> se ha quedado
-[15:47:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> no se fue el w
-[15:47:35] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> sabes lo peor
-[15:47:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> ?
-[15:47:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> que creo que son de esos niños que los mandan a la escuela por que sus padres no lo soportan
-[15:47:58] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:firework_rocket 128
-[15:47:58] [Server thread/INFO]: [Xautral: Gave 128 [Firework Rocket] to Xautral]
-[15:48:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> correcto
-[15:48:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> todos mis amigos empezaron de el que esta en mi casa
-[15:48:23] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> soy un fracasado cfff
-[15:48:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> ahora ninguno de ellos le hablan
-[15:48:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> literal todos los dias me peta el dc pa que juege con el
-[15:49:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> el piensa que tu eres su único amigo
-[15:49:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> si
-[15:49:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ahora mismo si
-[15:49:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> y que le piensas decir?
-[15:49:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no se
-[15:49:27] [Server thread/WARN]: Xautral moved wrongly!
-[15:49:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> diselo
-[15:49:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> así de huevos
-[15:49:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> no
-[15:49:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> no te esperes hasta el último momento
-[15:49:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pero tampoco te mames
-[15:49:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> wey si no le dices
-[15:49:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> va a terminar haciendo servidores de minecraft que se llamen JungleSMP :v
-[15:50:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> no porque me va a empezar a decir de esto que saben hacer ellos que te dan unas ganas de pegarle y matarle
-[15:50:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> y se va poner de nickname Xautral
-[15:50:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> :(
-[15:50:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pues minimo cuando acabe todo dile que no es su culpa
-[15:50:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> aunque si lo fuera
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:35] [Paper Common Worker #0/ERROR]: Detected unsafe terrain read during worldgen: reading from chunk [196, 218] while generating chunk [194, 218] (distance: 2, write radius: 1), step: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:sculk_patch_deep_dark]
-[15:50:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> aveces mentir es la mejor opción
-[15:50:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> lo peor es que mi hermana y mi padre se fueron 4 dias
-[15:51:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> y creia que iva a poder estar relajado
-[15:51:11] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.createmode master @a ~ ~ ~ 0.6 1 1
-[15:51:11] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.createmode to 3 players]
-[15:51:20] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> y derrepente bumba aparece mi amigo una tarde de la nada cuando tenia planes con unos amigos
-[15:51:22] [Server thread/WARN]: Xautral moved wrongly!
-[15:51:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ya la culpa tambien la tiene el
-[15:51:41] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> para que no pregunta el pendej
-[15:51:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ose
-[15:51:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> fue mi madre la que dijo que si
-[15:51:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> litearlmente llega a tu casa como si fuera la suya?
-[15:52:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> talmenos las madres promedio son asi
-[15:52:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no pero mi madre no me avisó
-[15:52:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> tengo la suerte de que mis padres no les importa mi vida social
-[15:52:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> quizás puedas decirle a la próxima tus planes para que no le valga verga y se duerma
-[15:52:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> la culpa no es del chamaco ni tuya
-[15:52:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> si lo hice
-[15:52:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> es la de tu gfa w
-[15:52:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Slimegolembross> le dije que tenia planes con unos amigos y lo que iva a hacer
-[15:53:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> es que no es de auhevo ser amigo de gente con asperger
-[15:53:42] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
-[15:53:42] [Server thread/INFO]: [Xautral: Teleported Xautral to [Dinastía Umbra] Slimegolembross]
-[15:53:46] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[15:53:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ya si es que es mi amigo solo que tengo una bateria social :V
+[17:21:19] [Server thread/INFO]: Starting minecraft server version 26.2
+[17:21:19] [Server thread/INFO]: Loading properties
+[17:21:19] [Server thread/INFO]: This server is running Paper version 26.2-84-main@26e81c4 (2026-07-26T18:11:33Z) (Implementing API version 26.2.build.84-stable)
+[17:21:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:21:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:21:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:21:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:21:20] [Server thread/INFO]: Default game type: SURVIVAL
+[17:21:20] [Server thread/INFO]: Generating keypair
+[17:21:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:21:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:21:20] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [OpenInv] Loading 1 libraries... please wait
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [OpenInv] Loaded library /workspaces/Tlatekuaserver/libraries/org/xerial/sqlite-jdbc/3.49.1.0/sqlite-jdbc-3.49.1.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-api/5.1.1/adventure-api-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-key/5.1.1/adventure-key-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/org/jetbrains/annotations/26.1.0/annotations-26.1.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-bukkit/4.4.1/adventure-platform-bukkit-4.4.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-api/4.4.1/adventure-platform-api-4.4.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-bungeecord/4.4.1/adventure-text-serializer-bungeecord-4.4.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-nbt/4.21.0/adventure-nbt-4.21.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.21.0/adventure-text-serializer-gson-legacy-impl-4.21.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-json-legacy-impl/4.21.0/adventure-text-serializer-json-legacy-impl-4.21.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-facet/4.4.1/adventure-platform-facet-4.4.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-platform-viaversion/4.4.1/adventure-platform-viaversion-4.4.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-minimessage/5.1.1/adventure-text-minimessage-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-gson/5.1.1/adventure-text-serializer-gson-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-json/5.1.1/adventure-text-serializer-json-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-commons/5.1.1/adventure-text-serializer-commons-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/Tlatekuaserver/libraries/net/kyori/adventure-text-serializer-legacy/5.1.1/adventure-text-serializer-legacy-5.1.1.jar
+[17:21:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[17:21:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[17:21:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:21:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:21:22] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[17:21:22] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.5
+[17:21:22] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.3.3
+[17:21:22] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.10
+[17:21:22] [Server thread/INFO]: [sMusic] Loading server plugin sMusic v1.0
+[17:21:22] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[17:21:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:21:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
+[17:21:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.2.0.
+[17:21:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:21:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:21:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:21:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:21:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:21:24] [Server thread/INFO]: Preparing level "world"
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.5
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 98b9488
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:21:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[17:21:24] [Server thread/INFO]: Loading 25 persistent chunks for level 'minecraft:overworld'...
+[17:21:24] [Server thread/INFO]: Preparing spawn area: 28%
+[17:21:25] [Server thread/INFO]: Prepared spawn area in 943 ms
+[17:21:25] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[17:21:25] [Server thread/INFO]: Prepared spawn area in 0 ms
+[17:21:25] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[17:21:25] [Server thread/INFO]: Preparing spawn area: 100%
+[17:21:25] [Server thread/INFO]: Prepared spawn area in 1 ms
+[17:21:25] [Server thread/INFO]: Done preparing level "world" (1.560s)
+[17:21:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[17:21:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[17:21:25] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[17:21:25] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.3.3
+[17:21:26] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.10
+[17:21:26] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[17:21:26] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[17:21:26] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[17:21:26] [Server thread/INFO]: [ItemEdit] # Enabled (took 285 ms)
+[17:21:26] [Server thread/INFO]: [sMusic] Enabling sMusic v1.0
+[17:21:26] [Server thread/INFO]:      _____  
+[17:21:26] [Server thread/INFO]:     / ____| 
+[17:21:26] [Server thread/INFO]:    | (___   
+[17:21:26] [Server thread/INFO]:     \___ \  
+[17:21:26] [Server thread/INFO]:     ____) | 
+[17:21:26] [Server thread/INFO]:    |_____/  
+[17:21:26] [Server thread/INFO]: 
+[17:21:26] [Server thread/INFO]:  sMusic [Enabled ✓]
+[17:21:26] [Server thread/INFO]:  by x.com/SunnyAim_
+[17:21:26] [Server thread/INFO]: 
+[17:21:26] [Server thread/INFO]: [sMusic] 🔁 No changes detected (files/config), keeping existing pack.
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[17:21:26] [Server thread/WARN]: [LoginSecurity] "LoginSecurity v3.2.0" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "public void com.lenis0012.bukkit.loginsecurity.modules.general.PlayerListener.onPlayerSpawn(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [lenis0012].
+[17:21:26] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[17:21:26] [Server thread/INFO]: [spark] Starting background profiler...
+[17:21:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:21:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:21:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:21:31] [Server thread/INFO]: Running delayed init tasks
+[17:21:31] [Server thread/INFO]: Done (22.474s)! For help, type "help"
+[17:21:31] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:21:31] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 27 builds behind ***
+[17:21:31] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[17:24:13] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:24:13] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
+[17:24:36] [Server thread/INFO]: [Volcanos] volcon2 joined the game
+[17:24:36] [Server thread/INFO]: volcon2[/127.78.109.241:54233] logged in with entity id 8 at ([minecraft:overworld]-18996.62455517998, 0.0, 4739.398563021349)
+[17:25:15] [Server thread/INFO]: [Not Secure] [Server] hola
+[17:25:16] [Server thread/INFO]: [Not Secure] [Server] tonoto
+[17:25:18] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> hola
+[17:25:18] [Server thread/INFO]: [Not Secure] [Server] ya me conecto
+[17:28:36] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> no se que hacer
+[17:28:40] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> mi clan no se conecta
+[17:28:42] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> ns por que
+[17:28:45] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> se ponen de putitas
+[17:31:11] [Server thread/INFO]: [Not Secure] [Server] aguantaaa
+[17:31:36] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:31:55] [Server thread/INFO]: [Not Secure] [Server] Cuidado Chaval!, ha aparecido un Xautral salvaje!
+[17:32:10] [Server thread/INFO]: Xautral joined the game
+[17:32:10] [Server thread/INFO]: Xautral[/127.78.182.87:56181] logged in with entity id 2392 at ([minecraft:overworld]-32.69999998807907, 13.0, 119.30000001192093)
+[17:32:25] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> tengo mucha suerte pa los portales
+[17:32:27] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> hice este
+[17:32:31] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> y esta una bastion
+[17:32:42] [Server thread/INFO]: Xautral issued server command: /clear
+[17:32:42] [Server thread/INFO]: [Xautral: Removed 186 item(s) from player Xautral]
+[17:32:44] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:32:44] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[17:33:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hola sebastian!
+[17:33:06] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> e
+[17:33:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> vimos tus historias y estas bien cerdo, no te interesa entrenar?
+[17:33:23] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> no
+[17:33:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no entendist
+[17:33:42] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.grinchultimatum master @a ~ ~ ~ 0.7 1 1
+[17:33:42] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.grinchultimatum to 2 players]
+[17:33:45] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> uff ese rolón
+[17:33:49] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> nueva cancion?
+[17:33:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si
+[17:34:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> es un A-Side de la cancion Ultimatum *guiño*
+[17:34:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> neta tengo sueños bien raros
+[17:34:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pero raros ya rozando lo enfermo
+[17:34:35] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> como de que
+[17:34:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ayer soñé que estaba en la universidad y me cogían
+[17:34:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> así litearlmente
+[17:34:51] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> wtf
+[17:34:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y hoy soñe que roleaba con blime (?)
+[17:34:57] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> te follaban a ti?
+[17:34:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si
+[17:35:03] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> wtf
+[17:35:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ese w
+[17:35:42] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> me empujaron w
+[17:35:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> y ahora que estasn en el nether te pondré la cancion de Ultimatum
+[17:35:46] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> para que la compares
+[17:35:54] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.ultimatum master @a ~ ~ ~ 0.7 1 1
+[17:35:54] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.ultimatum to 2 players]
+[17:36:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> es iguaaaaal
+[17:36:06] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> uff
+[17:36:09] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> es mejor
+[17:36:13] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si
+[17:36:18] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> es que la otra era navideña
+[17:36:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> aparte esta viene de un fanmade de DUsttale
+[17:36:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> y ya sabes que esos weyes se maman con la música
+[17:37:00] [Server thread/INFO]: Xautral issued server command: /item replace entity ea03dbc1-88ca-48e8-b7fa-bc17b4853a16 weapon with bow
+[17:37:00] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:37:05] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> ala mierda
+[17:37:08] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:37:08] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:37:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> qe
+[17:37:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> qe
+[17:37:18] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> ocupo prote
+[17:37:19] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:37:19] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:37:21] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> obligatoriamente
+[17:37:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> oye
+[17:37:59] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> esta bastion esta en un lugar muy
+[17:38:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y si pongo los B-Sides de las canciones en el nether
+[17:38:01] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> adecuado
+[17:38:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ty los A-Sides en el over
+[17:38:06] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> a ver
+[17:38:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ty los remixes en el end
+[17:38:10] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> si
+[17:38:27] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:27] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:40] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:40] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:44] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:44] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:47] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:49] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:49] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:50] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:50] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:38:52] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:38:52] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:39:01] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> wtf
+[17:39:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si
+[17:39:27] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> aca muero si no me voy
+[17:39:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:39:47] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:39:51] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:39:51] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:39:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:39:58] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:05] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:05] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:06] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:06] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:13] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:13] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:18] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ostras kaky
+[17:40:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> KAKY NO
+[17:40:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> NOOO KAKY
+[17:40:34] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:34] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:43] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:43] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:wither_skeleton] weapon with bow
+[17:40:47] [Server thread/INFO]: [Xautral: Replaced a slot on Wither Skeleton with [Bow]]
+[17:40:53] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:wither_skeleton,distance=..25] weapon with bow
+[17:40:53] [Server thread/INFO]: [Xautral: Replaced a slot on 4 entities with [Bow]]
+[17:40:57] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:wither_skeleton,distance=..25] weapon with bow
+[17:40:57] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Bow]]
+[17:41:10] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.augustusrises master @a ~ ~ ~ 0.7 1 1
+[17:41:10] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.augustusrises to 2 players]
+[17:41:13] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:wither_skeleton,distance=..25] weapon with bow
+[17:41:13] [Server thread/INFO]: [Xautral: Replaced a slot on 3 entities with [Bow]]
+[17:41:27] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:wither_skeleton,distance=..25] weapon with bow
+[17:41:27] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Bow]]
+[17:41:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> dios
+[17:42:02] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no recuerdo ni donde etsa el portal
+[17:42:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> eiencraft desde vista top-down se ve increíble
+[17:42:09] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ya lo v
+[17:42:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> teh aŕe un caminito
+[17:42:32] [Server thread/INFO]: [Volcanos] volcon2 was doomed to fall
+[17:42:37] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[17:42:37] [Server thread/INFO]: [Xautral: Teleported [Volcanos] volcon2 to Xautral]
+[17:42:40] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ostia
+[17:42:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> el brochaco creyó que sobreviviría a la caída
+[17:42:52] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ocupo encantamientos
+[17:42:55] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> urgentes
+[17:42:57] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.grinchultimatum master @a ~ ~ ~ 0.7 0.8 1
+[17:42:57] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.grinchultimatum to 2 players]
+[17:43:06] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> tengo que farmear libros
+[17:43:08] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> muchos
+[17:43:12] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> tas grabando?
+[17:43:16] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> por que
+[17:43:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> hablas solo w
+[17:43:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> estaría vergas documentar el server con loquendo
+[17:43:43] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:43:43] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[17:43:43] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> pero seria un admin
+[17:43:48] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> por eso
+[17:43:49] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> io :v
+[17:43:55] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> te aguanta lc pc?
+[17:43:57] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no
+[17:43:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> esta
+[17:44:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> esta no*
+[17:44:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ni el OBS
+[17:44:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> wey hice una grabacion
+[17:44:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> creo que todavia la tengo
+[17:44:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> 12 GB pesaba la chingadera
+[17:44:16] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> que mrd
+[17:44:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> y era puro sonido de turbina de avió
+[17:44:18] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> cuanto duraba
+[17:44:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> 5 minutos
+[17:44:21] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> wtf
+[17:44:33] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:44:33] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[17:44:40] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> esta mierda estara dificl sin ayuda
+[17:44:43] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> que hiba hacer?
+[17:44:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ah ya me acordé
+[17:45:14] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.flim master @a ~ ~ ~ 0.7 0.7 1
+[17:45:14] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.flim to 2 players]
+[17:45:22] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> temazo
+[17:45:28] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:skeleton] minecraft:power 5
+[17:45:28] [Server thread/INFO]: [Xautral: Applied enchantment Power V to 24 entities]
+[17:45:38] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> Flim - Aphex Twin (Slowed)
+[17:45:49] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> muteate la lluvia y se escucha verguísima
+[17:45:55] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:45:55] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[17:46:02] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> aca ya no se escucha la lluvia
+[17:46:06] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> 7
+[17:46:11] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> hubiera metido una de venetian snares
+[17:46:14] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> pero esta piterillas
+[17:46:17] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> vi por ahi que gan y fafa se quejaban del reinicio
+[17:46:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> si
+[17:46:29] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> litearlmente el 100% votó que si y fueron 5 personas
+[17:46:42] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> igual se quejan por que todo lo que tuvieron se lo regalo
+[17:46:44] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> mm
+[17:46:45] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> el
+[17:46:48] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> emblem
