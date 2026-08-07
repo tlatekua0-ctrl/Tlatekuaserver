@@ -4039,3 +4039,566 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 [19:04:22] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> wooow
 [19:04:52] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
 [19:04:54] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> no s duerme en la cama del jefe cabronm
+[19:05:04] [Server thread/INFO]: Xautral lost connection: Timed out
+[19:05:04] [Server thread/INFO]: Xautral left the game
+[19:05:39] [Server thread/INFO]: [Not Secure] [Server] time dout uputamadre
+[19:05:41] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[19:05:45] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[19:05:47] [Server thread/INFO]: You whisper to [Volcanos] volcon2: a
+[19:05:53] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> xautral
+[19:05:56] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> mira a esta pendeja
+[19:06:00] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> durmiendose en la ama del jefe
+[19:06:03] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[19:06:14] [Server thread/INFO]: [Not Secure] [Server] ya voy
+[19:06:16] [Server thread/INFO]: [Not Secure] [Server] ya me uno
+[19:06:18] [Server thread/INFO]: [Not Secure] [Server] en burguiza
+[19:06:24] [Server thread/INFO]: Xautral joined the game
+[19:06:24] [Server thread/INFO]: Xautral[/127.78.182.87:47585] logged in with entity id 40749 at ([minecraft:overworld]-19023.428687822176, 62.41933162155375, 4920.7474040529205)
+[19:06:37] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:06:37] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:06:42] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> lo invito a vivir aca y s pone a vivir en la cama del jefe
+[19:06:44] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> esta perra
+[19:06:47] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> le disparo?
+[19:06:50] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> no se
+[19:06:56] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> a verdad
+[19:07:03] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> ijij te chingue
+[19:07:14] [Async Chat Thread - #40/INFO]: [Not Secure] <volcon2> esta esclava
+[19:07:43] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.grinchultimatum master @a ~ ~ ~ 0.6 0.7 1
+[19:07:43] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.grinchultimatum to 3 players]
+[19:08:40] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembros
+[19:08:40] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembros]
+[19:08:53] [Server thread/INFO]: Xautral issued server command: /effect give d08e3574-f562-4e15-bbe0-8603afe563ef minecraft:resistance infinite 25 true
+[19:08:53] [Server thread/INFO]: [Xautral: Applied effect Resistance to Granjero]
+[19:09:35] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:09:35] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:10:52] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.albertobalsalm master @a ~ ~ ~ 0.7 1 1
+[19:10:52] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.albertobalsalm to 3 players]
+[19:10:54] [Async Chat Thread - #41/INFO]: [Not Secure] <Xautral> pozonque infinito
+[19:12:31] [Server thread/INFO]: Villager Villager['Villager'/37595, uuid='ee0cdd9b-6b2d-4faa-8b6e-6efb5b13193b', l='ServerLevel[world]', x=-18987.60, y=-4.00, z=4739.53, cpos=[-1187, 296], tl=15831, v=true] died, message: 'Villager was slain by [Volcanos] volcon2'
+[19:12:33] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> nmms
+[19:12:34] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> que
+[19:12:37] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> lo mate
+[19:12:38] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> JAJA
+[19:13:04] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:13:06] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> que hueva ya?
+[19:13:20] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> y si mejor te doy 3 huevos de aldeano?
+[19:13:20] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:13:32] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> me das 3 perras de aldeanos?
+[19:13:39] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:villager_spawn_egg 3
+[19:13:39] [Server thread/INFO]: [Xautral: Gave 3 [Villager Spawn Egg] to [Volcanos] volcon2]
+[19:13:51] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:13:57] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:14:16] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> dame los 3 huevos
+[19:14:17] [Async Chat Thread - #43/INFO]: [Not Secure] <volcon2> porfa
+[19:14:21] [Server thread/INFO]: Xautral issued server command: /inv volcon
+[19:14:24] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> ya estan
+[19:14:25] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> en tu inv
+[19:14:36] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:14:42] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:14:47] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:14:48] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:15:22] [Server thread/INFO]: Villager Villager['Villager'/44328, uuid='8252ca94-8ef3-41bc-b0de-fcd0b0dd43c3', l='ServerLevel[world]', x=-19189.14, y=104.00, z=4542.30, cpos=[-1200, 283], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[19:15:23] [Server thread/INFO]: Xautral issued server command: /gamerule command_blocks_work false
+[19:15:23] [Server thread/INFO]: [Xautral: Gamerule command_blocks_work is now set to: false]
+[19:15:23] [Server thread/INFO]: Villager Villager['Villager'/44354, uuid='dc40f91b-6802-401b-9d70-965e7d512106', l='ServerLevel[world]', x=-19189.86, y=104.00, z=4542.70, cpos=[-1200, 283], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[19:15:26] [Server thread/INFO]: Villager Villager['Villager'/44405, uuid='2ae3125f-592f-4a9d-824f-0f3a8d67eee5', l='ServerLevel[world]', x=-19189.14, y=104.05, z=4542.32, cpos=[-1200, 283], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[19:15:35] [Server thread/INFO]: Xautral issued server command: /gamerule command_blocks_work true
+[19:15:35] [Server thread/INFO]: [Xautral: Gamerule command_blocks_work is now set to: true]
+[19:15:45] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> voy por
+[19:16:14] [Server thread/INFO]: Xautral issued server command: /tp @e[type=#undead] Xautral
+[19:16:14] [Server thread/INFO]: [Xautral: Teleported 153 entities to Xautral]
+[19:16:21] [Server thread/INFO]: Villager Villager['Villager'/43916, uuid='b6be3e64-fda2-49bd-968e-0f267eebe7ab', l='ServerLevel[world]', x=-19232.30, y=91.94, z=4566.30, cpos=[-1203, 285], tl=1955, v=true] died, message: 'Villager was slain by Zombie'
+[19:16:22] [Server thread/INFO]: Villager Villager['Villager'/43270, uuid='20a0e7a4-1e55-46db-88f6-898a2b8c8616', l='ServerLevel[world]', x=-19232.30, y=92.52, z=4567.31, cpos=[-1203, 285], tl=3356, v=true] died, message: 'Villager was slain by Zombie'
+[19:16:35] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:wither_skeleton]
+[19:16:35] [Server thread/INFO]: [Xautral: Killed 11 entities]
+[19:16:38] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:16:38] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:16:41] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> fucho y pizza: X
+[19:16:45] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> fucho y porno: V
+[19:16:48] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> que mamadaaaa
+[19:17:32] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> no chambea la perra
+[19:17:42] [Server thread/INFO]: Xautral issued server command: /me fue víctima de Shulker Bulle
+[19:17:42] [Async Chat Thread - #45/INFO]: [Not Secure] * Xautral fue víctima de Shulker Bulle
+[19:17:55] [Server thread/INFO]: Xautral issued server command: /locate structure #minecraft:village
+[19:17:55] [Server thread/INFO]: Locating element #minecraft:village (minecraft:village_plains) took 3 ms
+[19:17:56] [Server thread/INFO]: Xautral issued server command: /tp @s -18928 ~ 4560
+[19:17:56] [Server thread/INFO]: [Xautral: Teleported Xautral to -18927.500000, 83.913308, 4560.500000]
+[19:18:05] [Server thread/INFO]: Villager Villager['Villager'/37855, uuid='49662d52-5bc0-4d4a-9696-8ff8a45f0f8c', l='ServerLevel[world]', x=-18954.72, y=74.77, z=4551.76, cpos=[-1185, 284], tl=3361, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:12] [Server thread/INFO]: Xautral issued server command: /ie enchant piercing 5
+[19:18:13] [Server thread/INFO]: Villager Villager['Villager'/37897, uuid='5fe024d9-d59f-4f5f-821a-134c2790b86c', l='ServerLevel[world]', x=-18954.45, y=72.00, z=4553.64, cpos=[-1185, 284], tl=3525, v=true] died, message: 'Villager was shot by Xautral'
+[19:18:13] [Server thread/INFO]: Villager Villager['Villager'/37899, uuid='0a0a19a0-3c51-4f98-9420-25c1953bbabf', l='ServerLevel[world]', x=-18953.52, y=72.00, z=4552.79, cpos=[-1185, 284], tl=3528, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:14] [Server thread/INFO]: Villager Villager['Villager'/37889, uuid='a9fe9942-d349-474b-a31d-160925b784e0', l='ServerLevel[world]', x=-18951.44, y=72.00, z=4551.44, cpos=[-1185, 284], tl=3551, v=true] died, message: 'Villager was shot by Xautral'
+[19:18:15] [Server thread/INFO]: Villager Villager['Villager'/37906, uuid='51c2d3fe-cffc-4932-b746-614e1e0e642a', l='ServerLevel[world]', x=-18952.21, y=72.00, z=4548.98, cpos=[-1185, 284], tl=3553, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:16] [Server thread/INFO]: Villager Villager['Villager'/37894, uuid='96080628-e5dc-4bfa-b0c9-ff88854a78b2', l='ServerLevel[world]', x=-18955.70, y=72.00, z=4550.18, cpos=[-1185, 284], tl=3580, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:17] [Server thread/INFO]: Villager Villager['Villager'/37930, uuid='1b8c6c40-5203-452b-9264-b208d5585581', l='ServerLevel[world]', x=-18953.16, y=83.40, z=4546.18, cpos=[-1185, 284], tl=4085, v=true] died, message: 'Villager was shot by Xautral'
+[19:18:17] [Server thread/INFO]: Villager Villager['Villager'/37891, uuid='54422fca-cd28-469c-9536-6fe754a2c9ea', l='ServerLevel[world]', x=-18948.25, y=85.85, z=4543.70, cpos=[-1185, 283], tl=3605, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:24] [Server thread/INFO]: Villager Villager['Villager'/37913, uuid='f70b7019-f758-4c3f-8eb6-8b989e3dc866', l='ServerLevel[world]', x=-18952.93, y=72.00, z=4549.22, cpos=[-1185, 284], tl=3745, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:26] [Server thread/INFO]: Villager Villager['Villager'/37852, uuid='b69f5bb8-7d29-4579-98c9-c76bed454fff', l='ServerLevel[world]', x=-18975.49, y=79.45, z=4570.75, cpos=[-1186, 285], tl=8436, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:26] [Server thread/INFO]: Villager Villager['Villager'/38284, uuid='4c6785ee-3d5a-46a5-bd55-a0813861f62e', l='ServerLevel[world]', x=-18978.92, y=77.50, z=4572.80, cpos=[-1187, 285], tl=10418, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:27] [Server thread/INFO]: Villager Villager['Villager'/37907, uuid='c0622b7c-4f2a-4558-ac19-faf06649336a', l='ServerLevel[world]', x=-18951.20, y=79.00, z=4561.29, cpos=[-1185, 285], tl=3812, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:28] [Server thread/INFO]: Villager Villager['Villager'/37902, uuid='152e6028-8ac2-4f77-9c4b-d067d2d7a71e', l='ServerLevel[world]', x=-18955.03, y=72.00, z=4552.30, cpos=[-1185, 284], tl=3816, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:29] [Server thread/INFO]: Villager Villager['Villager'/37808, uuid='8f489847-ac92-423e-9da9-9a4226141368', l='ServerLevel[world]', x=-18975.37, y=82.08, z=4562.01, cpos=[-1186, 285], tl=10719, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:29] [Server thread/INFO]: Villager Villager['Villager'/37792, uuid='6d10a6b7-905c-4cc3-86ca-8f01b47d4184', l='ServerLevel[world]', x=-18975.53, y=80.40, z=4566.57, cpos=[-1186, 285], tl=4311, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:31] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> wey
+[19:18:31] [Server thread/INFO]: Villager Villager['Villager'/37812, uuid='5c34d935-6b08-40a1-a15d-14e1505e5554', l='ServerLevel[world]', x=-18978.96, y=78.31, z=4566.05, cpos=[-1187, 285], tl=11155, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:18:33] [Async Chat Thread - #46/INFO]: [Not Secure] <Xautral> que
+[19:18:36] [Server thread/INFO]: Villager Villager['Villager'/37786, uuid='345dd3bd-c9b4-4d94-a0c8-677b75e4ebef', l='ServerLevel[world]', x=-18960.93, y=71.00, z=4566.50, cpos=[-1186, 285], tl=5761, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:38] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:18:38] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:18:43] [Server thread/INFO]: Villager Villager['Villager'/38285, uuid='f1d26a7d-befe-4fcf-b8ba-7e4ef1824bf6', l='ServerLevel[world]', x=-18969.27, y=71.00, z=4549.37, cpos=[-1186, 284], tl=19124, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:43] [Server thread/INFO]: Villager Villager['Villager'/37789, uuid='6083122e-3d1e-4da2-89e0-0d91a418b5f6', l='ServerLevel[world]', x=-18976.25, y=72.00, z=4549.93, cpos=[-1187, 284], tl=15779, v=true] died, message: 'Villager hit the ground too hard'
+[19:18:44] [Async Chat Thread - #46/INFO]: [Not Secure] <Xautral> sobada pray
+[19:19:02] [Server thread/INFO]: Xautral issued server command: /ie rename &4&lCurse
+[19:19:14] [Server thread/INFO]: Xautral issued server command: /tp @s -18928 ~ 4560
+[19:19:14] [Server thread/INFO]: [Xautral: Teleported Xautral to -18927.500000, 60.200000, 4560.500000]
+[19:19:16] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:19:18] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:19:23] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> por que no chambea la perrita
+[19:19:26] [Server thread/INFO]: Villager Villager['Villager'/37954, uuid='5a8d06e1-b1c5-4c28-b1ec-e78134c4d3aa', l='ServerLevel[world]', x=-18895.57, y=63.75, z=4552.33, cpos=[-1181, 284], tl=4076, v=true] died, message: 'Villager was shot by Xautral'
+[19:19:26] [Server thread/INFO]: Villager Villager['Villager'/37864, uuid='283cf05f-556a-4908-b6b7-dfa7f541dd3f', l='ServerLevel[world]', x=-18895.85, y=63.00, z=4555.28, cpos=[-1181, 284], tl=9742, v=true] died, message: 'Villager was shot by Xautral'
+[19:19:29] [Server thread/INFO]: Villager Villager['Villager'/37881, uuid='64e1775a-a7f2-480b-b399-811d4078cec2', l='ServerLevel[world]', x=-18899.42, y=71.58, z=4554.46, cpos=[-1182, 284], tl=5364, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:19:29] [Server thread/INFO]: Villager Villager['Villager'/37988, uuid='4d7b18df-6864-4ffa-92bd-415edbe7ab0d', l='ServerLevel[world]', x=-18897.71, y=69.09, z=4554.65, cpos=[-1182, 284], tl=4132, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:19:29] [Server thread/INFO]: Villager Villager['Villager'/37961, uuid='c6c4232a-e641-4729-a818-c603629f1877', l='ServerLevel[world]', x=-18895.30, y=65.55, z=4556.80, cpos=[-1181, 284], tl=4225, v=true] died, message: 'Villager was shot by Xautral'
+[19:19:31] [Server thread/INFO]: Villager Villager['Villager'/37989, uuid='6c78d049-749a-4957-b9c2-b977f439f706', l='ServerLevel[world]', x=-18895.30, y=65.97, z=4559.70, cpos=[-1181, 284], tl=4172, v=true] died, message: 'Villager was shot by Xautral'
+[19:19:31] [Server thread/INFO]: Villager Villager['Villager'/37867, uuid='8843d437-a303-4296-ac35-a442896ee0f2', l='ServerLevel[world]', x=-18895.30, y=65.05, z=4548.24, cpos=[-1181, 284], tl=4213, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:19:35] [Server thread/INFO]: Villager Villager['Villager'/37866, uuid='8601d088-2757-4df1-a9b3-e3c38c893907', l='ServerLevel[world]', x=-18902.73, y=62.94, z=4556.38, cpos=[-1182, 284], tl=4365, v=true] died, message: 'Villager hit the ground too hard'
+[19:19:36] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> metí magia al jeugo
+[19:19:47] [Server thread/INFO]: Villager Villager['Villager'/37959, uuid='bf41582b-404d-4cdb-ab48-0b3e179f903a', l='ServerLevel[world]', x=-18893.45, y=70.11, z=4579.28, cpos=[-1181, 286], tl=17624, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:19:51] [Server thread/INFO]: Villager Villager['Villager'/37940, uuid='c0e0ab8c-d88d-469e-9a60-ecada7837e87', l='ServerLevel[world]', x=-18893.80, y=67.79, z=4576.09, cpos=[-1181, 286], tl=23258, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:19:56] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~
+[19:19:56] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[19:19:58] [Server thread/INFO]: Villager Villager['Villager'/37874, uuid='363b235f-c5e1-4577-9415-a03e1e23c605', l='ServerLevel[world]', x=-18897.06, y=63.00, z=4582.10, cpos=[-1182, 286], tl=16542, v=true] died, message: 'Villager hit the ground too hard'
+[19:20:01] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~
+[19:20:01] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[19:20:09] [Server thread/INFO]: Xautral issued server command: /effect give @n[type=skeleton] minecraft:slowness infinite 25 true
+[19:20:09] [Server thread/INFO]: [Xautral: Applied effect Slowness to Skeleton]
+[19:20:12] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> CHAMBEA PUTA
+[19:20:21] [Server thread/INFO]: Xautral issued server command: /item replace entity 6d53cb68-6d9e-4079-8877-f8ea3ccabba0 weapon.offhand from entity Xautral weapon.mainhand
+[19:20:21] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Bow]]
+[19:20:24] [Server thread/INFO]: Xautral issued server command: /item replace entity 6d53cb68-6d9e-4079-8877-f8ea3ccabba0 weapon.offhand from entity Xautral weapon.mainhand
+[19:20:24] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[19:20:30] [Server thread/INFO]: Xautral issued server command: /ie enchant multishot 5
+[19:20:41] [Server thread/INFO]: Villager Villager['Villager'/37903, uuid='292e6dbc-c3e2-42d4-b3c8-aa9da5939e0b', l='ServerLevel[world]', x=-18950.93, y=72.00, z=4548.93, cpos=[-1185, 284], tl=5953, v=true] died, message: 'Villager was shot by Xautral'
+[19:20:44] [Server thread/INFO]: Villager Villager['Villager'/37892, uuid='0f66a538-013c-4a12-802f-83bdf7904215', l='ServerLevel[world]', x=-18950.93, y=72.00, z=4553.67, cpos=[-1185, 284], tl=5995, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:44] [Server thread/INFO]: Villager Villager['Villager'/37912, uuid='ef8a8c96-efb7-4b73-b907-778245d05a3a', l='ServerLevel[world]', x=-18950.93, y=72.00, z=4549.58, cpos=[-1185, 284], tl=5998, v=true] died, message: 'Villager was shot by Xautral'
+[19:20:44] [Server thread/INFO]: Villager Villager['Villager'/37810, uuid='abde6b68-8137-432f-a64f-1235fcb27549', l='ServerLevel[world]', x=-18959.09, y=72.00, z=4553.33, cpos=[-1185, 284], tl=6618, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:44] [Server thread/INFO]: Villager Villager['Villager'/37893, uuid='afcb0071-23ae-4de6-bdd7-598a4e1067e0', l='ServerLevel[world]', x=-18953.72, y=72.00, z=4550.68, cpos=[-1185, 284], tl=6252, v=true] died, message: 'Villager was shot by Xautral'
+[19:20:44] [Server thread/INFO]: Villager Villager['Villager'/37904, uuid='824d2a70-4345-4cad-8672-7372f1062e07', l='ServerLevel[world]', x=-18953.01, y=72.00, z=4548.93, cpos=[-1185, 284], tl=6252, v=true] died, message: 'Villager was shot by Xautral'
+[19:20:45] [Server thread/INFO]: Villager Villager['Villager'/37900, uuid='9a4ad650-e00f-457a-bf99-88ac8c3e4b2f', l='ServerLevel[world]', x=-18947.04, y=75.05, z=4549.95, cpos=[-1185, 284], tl=6033, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:46] [Server thread/INFO]: Villager Villager['Villager'/37919, uuid='44543385-ace8-407a-bd22-3f1234360642', l='ServerLevel[world]', x=-18955.70, y=77.41, z=4549.40, cpos=[-1185, 284], tl=5753, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:47] [Server thread/INFO]: Villager Villager['Villager'/37922, uuid='923ca675-d896-415b-bcfd-d96a668c62b7', l='ServerLevel[world]', x=-18933.99, y=72.00, z=4543.65, cpos=[-1184, 283], tl=5777, v=true] died, message: 'Villager hit the ground too hard'
+[19:20:49] [Server thread/INFO]: Villager Villager['Villager'/37853, uuid='bceb9d1b-e804-4128-9123-81366fb9ea12', l='ServerLevel[world]', x=-18957.55, y=78.05, z=4563.53, cpos=[-1185, 285], tl=6098, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:49] [Server thread/INFO]: Villager Villager['Villager'/37895, uuid='c87ef5b2-7158-4f3a-be4f-46eb30f7c4f0', l='ServerLevel[world]', x=-18956.00, y=79.99, z=4552.81, cpos=[-1185, 284], tl=6099, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:49] [Server thread/INFO]: Villager Villager['Villager'/37901, uuid='db3c8649-9857-4314-815c-12860687f659', l='ServerLevel[world]', x=-18955.04, y=74.70, z=4550.34, cpos=[-1185, 284], tl=6101, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:49] [Server thread/INFO]: Villager Villager['Villager'/37911, uuid='ee66bc03-51dd-45d7-8ee9-ec729a47c25d', l='ServerLevel[world]', x=-18956.00, y=72.05, z=4552.56, cpos=[-1185, 284], tl=6109, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:51] [Server thread/INFO]: Villager Villager['Villager'/37909, uuid='a42cab2d-66fd-4110-99e1-407e32bb3216', l='ServerLevel[world]', x=-18965.13, y=78.65, z=4550.73, cpos=[-1186, 284], tl=6151, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:20:58] [Server thread/INFO]: Villager Villager['Villager'/37832, uuid='9be65133-d017-4746-aa98-5754d5918306', l='ServerLevel[world]', x=-18949.27, y=75.00, z=4540.15, cpos=[-1185, 283], tl=6096, v=true] died, message: 'Villager hit the ground too hard'
+[19:21:02] [Server thread/INFO]: Villager Villager['Villager'/37811, uuid='16411705-9f28-48c4-967e-8b02623fa78a', l='ServerLevel[world]', x=-18956.26, y=73.00, z=4555.48, cpos=[-1185, 284], tl=7544, v=true] died, message: 'Villager hit the ground too hard'
+[19:21:06] [Server thread/INFO]: Villager Villager['Villager'/37829, uuid='9db785bc-b767-49a4-a65a-076f124641a0', l='ServerLevel[world]', x=-18938.59, y=77.00, z=4565.66, cpos=[-1184, 285], tl=13361, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:13] [Server thread/INFO]: Villager Villager['Villager'/37806, uuid='a2cbddb8-8261-496e-88d2-ceb60da3284a', l='ServerLevel[world]', x=-18946.83, y=84.49, z=4568.54, cpos=[-1185, 285], tl=14000, v=true] died, message: 'Villager was shot by Xautral'
+[19:21:14] [Server thread/INFO]: Villager Villager['Villager'/37896, uuid='0511b4e3-b1a8-493f-952a-35faf72bf386', l='ServerLevel[world]', x=-18957.65, y=72.00, z=4552.37, cpos=[-1185, 284], tl=6595, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:16] [Server thread/INFO]: Villager Villager['Villager'/37831, uuid='d4e93f97-6378-4c06-9999-f7cdf271f9b2', l='ServerLevel[world]', x=-18946.02, y=86.94, z=4573.70, cpos=[-1185, 285], tl=13548, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:16] [Server thread/INFO]: Villager Villager['Villager'/37809, uuid='7be53f80-6665-4c65-b9b7-685fa7dd04df', l='ServerLevel[world]', x=-18947.41, y=86.99, z=4567.21, cpos=[-1185, 285], tl=14055, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:27] [Server thread/INFO]: Villager Villager['Villager'/49493, uuid='4a906b9f-5380-4e28-a69a-695052c55140', l='ServerLevel[world]', x=-2363.54, y=42.77, z=583.43, cpos=[-148, 36], tl=141, v=true] died, message: 'Villager tried to swim in lava'
+[19:21:28] [Server thread/INFO]: Villager Villager['Villager'/37846, uuid='4f0f9aae-3dde-4d51-aa5a-5d848745fc25', l='ServerLevel[world]', x=-18970.22, y=68.00, z=4583.40, cpos=[-1186, 286], tl=9089, v=true] died, message: 'Villager hit the ground too hard'
+[19:21:33] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:21:33] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[19:21:38] [Server thread/INFO]: Villager Villager['Villager'/37980, uuid='1dd3d37d-90a7-4b94-92d3-0c7cb008ec30', l='ServerLevel[world]', x=-18898.35, y=63.00, z=4564.15, cpos=[-1182, 285], tl=6727, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:46] [Server thread/INFO]: Villager Villager['Villager'/37862, uuid='4d4e8389-0558-4501-80e7-aa39fae75303', l='ServerLevel[world]', x=-18898.25, y=66.76, z=4565.73, cpos=[-1182, 285], tl=15386, v=true] died, message: 'Villager was shot by Skeleton'
+[19:21:46] [Server thread/INFO]: Villager Villager['Villager'/37974, uuid='ec8619a2-9b1c-48bf-8290-98e439f189e1', l='ServerLevel[world]', x=-18894.36, y=66.89, z=4565.87, cpos=[-1181, 285], tl=6884, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:21:48] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]t
+[19:21:49] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:21:49] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[19:21:54] [Server thread/INFO]: Villager Villager['Villager'/38289, uuid='2cdc5e13-bcd7-4cd7-ba94-c86857259003', l='ServerLevel[world]', x=-18897.50, y=62.94, z=4560.23, cpos=[-1182, 285], tl=6984, v=true] died, message: 'Villager hit the ground too hard'
+[19:21:55] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:21:55] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[19:22:03] [Server thread/INFO]: Villager Villager['Villager'/37924, uuid='f2230d12-c841-45ed-98c6-450ba610b33f', l='ServerLevel[world]', x=-18927.95, y=73.56, z=4544.93, cpos=[-1183, 284], tl=12147, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:04] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:22:04] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:22:06] [Server thread/INFO]: Villager Villager['Villager'/37779, uuid='8d56c27e-a31d-4f1a-87e1-fce6a96e5399', l='ServerLevel[world]', x=-18978.33, y=62.00, z=4572.32, cpos=[-1187, 285], tl=15314, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:06] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:22:06] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:22:08] [Server thread/INFO]: Villager Villager['Villager'/37794, uuid='d49fe1fd-ba78-4133-8beb-0fb6de6b551a', l='ServerLevel[world]', x=-19006.70, y=52.00, z=4570.56, cpos=[-1188, 285], tl=8330, v=true] died, message: 'Villager hit the ground too hard'
+[19:22:08] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:08] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[19:22:17] [Server thread/INFO]: Villager Villager['Villager'/37802, uuid='a333c3f6-42a4-4291-b324-9a0bdff261f2', l='ServerLevel[world]', x=-18978.27, y=62.00, z=4570.44, cpos=[-1187, 285], tl=15769, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:21] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> reparacion
+[19:22:22] [Server thread/INFO]: Villager Villager['Villager'/49983, uuid='f2193ead-5372-44b2-b7cb-b382214769af', l='ServerLevel[world]', x=-2363.34, y=42.59, z=583.30, cpos=[-148, 36], tl=38, v=true] died, message: 'Villager tried to swim in lava'
+[19:22:22] [Server thread/INFO]: Villager Villager['Villager'/37982, uuid='fe5a59fb-b0e5-452e-a9a6-5bfb7da04d88', l='ServerLevel[world]', x=-18897.35, y=72.51, z=4574.01, cpos=[-1182, 285], tl=7597, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:22:24] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> vamos calajo
+[19:22:24] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.1 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:24] [Server thread/INFO]: [Xautral: Applied 0.1 damage to Skeleton]
+[19:22:25] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> CALAJo?
+[19:22:26] [Server thread/INFO]: Villager Villager['Villager'/37851, uuid='8ed6d634-4112-443b-869e-55725a46ed48', l='ServerLevel[world]', x=-18930.56, y=73.00, z=4544.40, cpos=[-1184, 284], tl=8918, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:28] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:28] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:22:29] [Server thread/INFO]: Villager Villager['Villager'/37783, uuid='7131ac5a-1871-4a87-af42-2b696f15d7cd', l='ServerLevel[world]', x=-18980.26, y=61.00, z=4573.55, cpos=[-1187, 285], tl=15779, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:31] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:31] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:22:34] [Server thread/INFO]: Villager Villager['Villager'/37888, uuid='698a8e90-9347-47b4-b569-5a2f8dc9f34e', l='ServerLevel[world]', x=-18928.70, y=73.00, z=4545.70, cpos=[-1184, 284], tl=7909, v=true] died, message: 'Villager was slain by Zombie'
+[19:22:37] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:37] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:22:39] [Server thread/INFO]: Villager Villager['Villager'/37955, uuid='d28e5a92-eac4-4dd0-aaf3-a8aa234a3acc', l='ServerLevel[world]', x=-18898.48, y=66.32, z=4576.81, cpos=[-1182, 286], tl=7931, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:22:43] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:22:43] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:22:46] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:22:46] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:22:51] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:22:51] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:22:52] [Server thread/INFO]: Villager Villager['Villager'/37875, uuid='1fd2fca1-5bbe-4a1f-bee0-906c125bfe50', l='ServerLevel[world]', x=-18899.50, y=64.00, z=4576.99, cpos=[-1182, 286], tl=21209, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:22:55] [Server thread/INFO]: Villager Villager['Villager'/37876, uuid='a98cbbea-3921-4e5c-9f17-71cd412fd68f', l='ServerLevel[world]', x=-18899.50, y=66.96, z=4581.39, cpos=[-1182, 286], tl=21141, v=true] died, message: 'Villager was shot by Skeleton'
+[19:23:03] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> go perra
+[19:23:04] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:23:04] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:23:07] [Server thread/INFO]: Villager Villager['Villager'/38239, uuid='dcd41efd-3129-4933-9c96-bd7a1c753a5d', l='ServerLevel[world]', x=-18973.70, y=73.00, z=4529.30, cpos=[-1186, 283], tl=7864, v=true] died, message: 'Villager was slain by Zombie'
+[19:23:13] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> ahora si
+[19:23:16] [Server thread/INFO]: Villager Villager['Villager'/37987, uuid='dc05829d-7d9d-4a46-b0e6-4ef2a6e28f23', l='ServerLevel[world]', x=-18898.03, y=63.00, z=4579.95, cpos=[-1182, 286], tl=8681, v=true] died, message: 'Villager hit the ground too hard'
+[19:23:25] [Async Chat Thread - #47/INFO]: [Not Secure] <volcon2> a hacer la fucking granja
+[19:23:26] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:23:26] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Air]]
+[19:23:28] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:23:29] [Server thread/INFO]: Villager Villager['Villager'/37880, uuid='38dabe36-4a32-4c69-ab98-191e6ab5d847', l='ServerLevel[world]', x=-18898.62, y=62.94, z=4571.71, cpos=[-1182, 285], tl=21161, v=true] died, message: 'Villager hit the ground too hard'
+[19:23:31] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:23:37] [Server thread/INFO]: Villager Villager['Villager'/50455, uuid='1dce8901-5455-4b68-8506-1d5fa207a838', l='ServerLevel[world]', x=-2363.78, y=42.77, z=583.42, cpos=[-148, 36], tl=218, v=true] died, message: 'Villager tried to swim in lava'
+[19:23:41] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:23:41] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[19:23:59] [Server thread/INFO]: Xautral issued server command: /effect give @n[type=skeleton] minecraft:slowness infinite 25 true
+[19:23:59] [Server thread/INFO]: [Xautral: Applied effect Slowness to Skeleton]
+[19:24:01] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:24:01] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:24:07] [Server thread/INFO]: Villager Villager['Villager'/37869, uuid='9a5c3435-5401-42ee-bdb8-21a371892ea0', l='ServerLevel[world]', x=-18984.29, y=79.00, z=4494.73, cpos=[-1187, 280], tl=9826, v=true] died, message: 'Villager was slain by Zombie'
+[19:24:12] [Server thread/INFO]: Villager Villager['Villager'/37936, uuid='46b9d1ee-2a7c-4bd4-b51f-55169f09efaf', l='ServerLevel[world]', x=-18953.93, y=74.81, z=4578.53, cpos=[-1185, 286], tl=15636, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:24:14] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:24:14] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:24:27] [Server thread/INFO]: Villager Villager['Villager'/38332, uuid='8e1f6753-a82d-43fd-a82c-1a182a04f359', l='ServerLevel[world]', x=-18971.86, y=75.54, z=4592.76, cpos=[-1186, 287], tl=8825, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:24:32] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:villager]
+[19:24:32] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:24:38] [Server thread/INFO]: Villager Villager['Villager'/38287, uuid='0c30cdd8-c22e-4e04-8e18-f1f3c08e4f3a', l='ServerLevel[world]', x=-18969.20, y=66.00, z=4590.50, cpos=[-1186, 286], tl=10266, v=true] died, message: 'Villager hit the ground too hard'
+[19:24:50] [Server thread/INFO]: Villager Villager['Villager'/37834, uuid='b716d177-6b2e-4901-bbd6-9236ae0aa16f', l='ServerLevel[world]', x=-18956.22, y=67.00, z=4593.31, cpos=[-1185, 287], tl=23351, v=true] died, message: 'Villager hit the ground too hard'
+[19:24:56] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:24:58] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:24:58] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:25:03] [Server thread/INFO]: Villager Villager['Villager'/51319, uuid='a179e2ef-530e-400d-ab6f-408b115b3739', l='ServerLevel[world]', x=-2363.30, y=42.13, z=583.69, cpos=[-148, 36], tl=1, v=true] died, message: 'Villager tried to swim in lava'
+[19:25:05] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:25:05] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:25:09] [Server thread/INFO]: Villager Villager['Villager'/37926, uuid='325ba82d-6174-4798-9364-56c55c230afd', l='ServerLevel[world]', x=-18971.21, y=68.00, z=4583.81, cpos=[-1186, 286], tl=11001, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:25:11] [Server thread/INFO]: Villager Villager['Villager'/37835, uuid='d348e6c7-a6a0-4299-8a38-824338d7386e', l='ServerLevel[world]', x=-18972.48, y=70.91, z=4583.81, cpos=[-1186, 286], tl=11304, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:25:12] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] x
+[19:25:13] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:25:13] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:25:14] [Server thread/INFO]: Villager Villager['Villager'/51302, uuid='571f1ff6-9303-4383-9eb7-75dcb8801e3c', l='ServerLevel[world]', x=-2364.07, y=42.68, z=583.63, cpos=[-148, 36], tl=233, v=true] died, message: 'Villager tried to swim in lava'
+[19:25:14] [Server thread/INFO]: Villager Villager['Villager'/38288, uuid='a28ed952-f6d4-4cab-9ddf-209d882e2998', l='ServerLevel[world]', x=-18968.25, y=72.00, z=4560.05, cpos=[-1186, 285], tl=21705, v=true] died, message: 'Villager was slain by Zombie'
+[19:25:15] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:25:15] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:25:21] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:25:22] [Server thread/INFO]: Villager Villager['Villager'/51510, uuid='acce9390-527c-44e1-b435-ff07d2e42930', l='ServerLevel[world]', x=-2364.46, y=42.25, z=579.74, cpos=[-148, 36], tl=38, v=true] died, message: 'Villager burned to death'
+[19:25:24] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:25:24] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:25:35] [Server thread/INFO]: Villager Villager['Villager'/51497, uuid='c3ff723b-c37b-4390-b4bb-91bb4d73463b', l='ServerLevel[world]', x=-2358.99, y=43.00, z=572.43, cpos=[-148, 35], tl=283, v=true] died, message: 'Villager discovered the floor was lava'
+[19:25:38] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:25:38] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Air]]
+[19:25:39] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:25:39] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[19:25:45] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombie
+[19:25:45] [Server thread/INFO]: [Xautral: Summoned new Zombie]
+[19:25:46] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:25:46] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:26:02] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton ~ ~ ~ {NoGravity:1b}
+[19:26:02] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[19:26:06] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:26:06] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:26:09] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:26:09] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[19:26:11] [Server thread/INFO]: Villager Villager['Villager'/37948, uuid='a33d6338-3d08-4dd7-9a97-dac5ad220452', l='ServerLevel[world]', x=-19005.70, y=52.00, z=4570.82, cpos=[-1188, 285], tl=18554, v=true] died, message: 'Villager was slain by Zombie'
+[19:26:11] [Server thread/INFO]: Villager Villager['Villager'/38309, uuid='6d849895-2eba-4ed3-a165-3ebc49e82736', l='ServerLevel[world]', x=-18959.52, y=72.00, z=4552.04, cpos=[-1185, 284], tl=10922, v=true] died, message: 'Villager was slain by Zombie'
+[19:26:13] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.mainhand from entity Xautral weapon.mainhand
+[19:26:13] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Bow]]
+[19:26:16] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:26:16] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:26:29] [Server thread/INFO]: Villager Villager['Villager'/37841, uuid='181fa7f7-b7cc-4fa4-a364-89ee97728fec', l='ServerLevel[world]', x=-18966.75, y=83.99, z=4552.76, cpos=[-1186, 284], tl=13197, v=true] died, message: 'Villager was shot by Skeleton'
+[19:26:36] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:26:36] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:26:39] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:26:40] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:26:40] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:26:51] [Server thread/INFO]: Villager Villager['Villager'/37910, uuid='67648c3b-5abc-4bc5-bb80-2a0f66caa12c', l='ServerLevel[world]', x=-18957.53, y=72.00, z=4553.50, cpos=[-1185, 284], tl=13345, v=true] died, message: 'Villager was slain by Zombie'
+[19:26:56] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:26:56] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:27:05] [Server thread/INFO]: Villager Villager['Villager'/37784, uuid='54ce52ca-397b-491d-a9a9-5c7863061739', l='ServerLevel[world]', x=-18951.06, y=73.00, z=4560.30, cpos=[-1185, 285], tl=14568, v=true] died, message: 'Villager was slain by Zombie'
+[19:27:12] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton
+[19:27:12] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[19:27:18] [Server thread/INFO]: Villager Villager['Villager'/37990, uuid='c86b7d3c-4598-448e-93ed-b6c61f2dba63', l='ServerLevel[world]', x=-18961.53, y=78.75, z=4497.70, cpos=[-1186, 281], tl=22193, v=true] died, message: 'Villager was slain by Zombie'
+[19:27:19] [Server thread/INFO]: Xautral issued server command: /effect give 145d7620-29a2-412c-b93c-0f3a99b92130 minecraft:slowness infinite 25 true
+[19:27:19] [Server thread/INFO]: [Xautral: Applied effect Slowness to Skeleton]
+[19:27:25] [Server thread/INFO]: Xautral issued server command: /item replace entity @n[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:27:25] [Server thread/INFO]: [Xautral: Replaced a slot on Skeleton with [Curse]]
+[19:27:31] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:27:31] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:27:40] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:27:40] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:27:43] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:28:13] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:28:13] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:19] [Server thread/INFO]: Villager Villager['Villager'/37927, uuid='282bd780-6588-437f-8113-9d85d3b89e47', l='ServerLevel[world]', x=-18937.07, y=78.72, z=4542.74, cpos=[-1184, 283], tl=21069, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:28:22] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:28:22] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:24] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:28:24] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:26] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[distance=1..5]
+[19:28:26] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:30] [Server thread/INFO]: Villager Villager['Villager'/37935, uuid='73cb23df-71b0-4293-996f-c32dfe605f4f', l='ServerLevel[world]', x=-18996.40, y=71.00, z=4546.28, cpos=[-1188, 284], tl=17409, v=true] died, message: 'Villager was slain by Zombie'
+[19:28:33] [Server thread/INFO]: Villager Villager['Villager'/37921, uuid='9721fc78-34df-485a-8789-67a751a1cb6d', l='ServerLevel[world]', x=-18933.70, y=73.94, z=4540.10, cpos=[-1184, 283], tl=16515, v=true] died, message: 'Villager hit the ground too hard'
+[19:28:34] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:skeleton] Xautral
+[19:28:34] [Server thread/INFO]: [Xautral: Teleported Skeleton to Xautral]
+[19:28:44] [Server thread/INFO]: Xautral issued server command: /tp @e[type=#undead] Xautral
+[19:28:44] [Server thread/INFO]: [Xautral: Teleported 116 entities to Xautral]
+[19:28:57] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=#undead] run damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:57] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:28:59] [Server thread/INFO]: Villager Villager['Villager'/37947, uuid='cb8d947e-672a-4c4a-9cee-af86183c420f', l='ServerLevel[world]', x=-18950.06, y=73.00, z=4560.30, cpos=[-1185, 285], tl=15609, v=true] died, message: 'Villager was slain by Zombie'
+[19:29:09] [Server thread/INFO]: Villager Villager['Villager'/37931, uuid='87991c67-382b-483a-bdc9-b710d7ef5ee3', l='ServerLevel[world]', x=-18954.67, y=74.00, z=4532.15, cpos=[-1185, 283], tl=16196, v=true] died, message: 'Villager was slain by Zombie'
+[19:29:09] [Server thread/INFO]: Villager Villager['Villager'/37898, uuid='c6390163-cc36-40f8-bbc3-ae81c310c81e', l='ServerLevel[world]', x=-18953.64, y=72.00, z=4552.52, cpos=[-1185, 284], tl=16110, v=true] died, message: 'Villager was slain by Zombie'
+[19:29:13] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:29:13] [Server thread/INFO]: [Xautral: Replaced a slot on 85 entities with [Curse]]
+[19:29:17] [Server thread/INFO]: Villager Villager['Villager'/37854, uuid='b4d9b02e-9f42-446f-8223-17e8595556f1', l='ServerLevel[world]', x=-18958.30, y=72.00, z=4553.52, cpos=[-1185, 284], tl=16340, v=true] died, message: 'Villager was slain by Zombie'
+[19:29:18] [Server thread/INFO]: Villager Villager['Villager'/38283, uuid='69a91ccc-6a33-4523-9f26-0b1b96fa0337', l='ServerLevel[world]', x=-18937.69, y=76.00, z=4512.50, cpos=[-1184, 282], tl=15241, v=true] died, message: 'Villager was slain by Drowned'
+[19:29:23] [Server thread/INFO]: Villager Villager['Villager'/37929, uuid='32aa510c-4c8f-41b5-af65-4a8a7c976dc9', l='ServerLevel[world]', x=-18946.12, y=76.00, z=4525.30, cpos=[-1185, 282], tl=16079, v=true] died, message: 'Villager was slain by Zombie'
+[19:29:23] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=#undead] run damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:zombie]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:23] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:29:28] [Server thread/INFO]: Villager Villager['Villager'/37883, uuid='d2e4fd8e-8697-4413-9d2d-cf26f27d63b4', l='ServerLevel[world]', x=-18938.05, y=74.94, z=4516.12, cpos=[-1184, 282], tl=15708, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:29:30] [Async Chat Thread - #49/INFO]: [Not Secure] <volcon2> este aldeano es una perrita
+[19:29:44] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:skeleton] Xautral
+[19:29:44] [Server thread/INFO]: [Xautral: Teleported 61 entities to Xautral]
+[19:29:56] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=#skeleton] minecraft:fire_resistance infinite 25 true
+[19:29:58] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:skeleton] Xautral
+[19:29:58] [Server thread/INFO]: [Xautral: Teleported 33 entities to Xautral]
+[19:30:02] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=#undead] run damage @n[type=minecraft:skeleton] 0.0 minecraft:mob_attack by @n[type=minecraft:zombie]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:02] [Server thread/INFO]: [Xautral: Applied 0.0 damage to Skeleton]
+[19:30:06] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon.mainhand
+[19:30:06] [Server thread/INFO]: [Xautral: Replaced a slot on 31 entities with [Curse]]
+[19:30:26] [Server thread/INFO]: Villager Villager['Villager'/37873, uuid='b5a4d18a-a35a-4140-a34f-eb01c3de4dbe', l='ServerLevel[world]', x=-18918.19, y=63.94, z=4559.09, cpos=[-1183, 284], tl=31126, v=true] died, message: 'Villager was shot by Xautral'
+[19:30:27] [Server thread/INFO]: Villager Villager['Villager'/38238, uuid='f845f1ee-7f52-4eff-928a-53804149b659', l='ServerLevel[world]', x=-18924.58, y=83.31, z=4539.71, cpos=[-1183, 283], tl=16661, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:30:28] [Server thread/INFO]: Villager Villager['Villager'/37962, uuid='49a4e940-231f-4e70-8927-5d3c82f13ff0', l='ServerLevel[world]', x=-18918.48, y=63.94, z=4556.44, cpos=[-1183, 284], tl=17317, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:30:29] [Server thread/INFO]: Villager Villager['Villager'/37865, uuid='a5acb3fe-676b-41ad-8d4d-09cbda9f16aa', l='ServerLevel[world]', x=-18919.22, y=71.36, z=4558.92, cpos=[-1183, 284], tl=17878, v=true] died, message: 'Villager was shot by Xautral'
+[19:30:35] [Server thread/INFO]: Villager Villager['Villager'/37985, uuid='8db38e07-4132-4182-afa9-a4f4a2313d69', l='ServerLevel[world]', x=-18896.34, y=66.62, z=4555.39, cpos=[-1182, 284], tl=26422, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:30:36] [Server thread/INFO]: Villager Villager['Villager'/37958, uuid='a7e40668-b4f8-43da-a8b7-4427d81705d1', l='ServerLevel[world]', x=-18896.34, y=67.77, z=4556.86, cpos=[-1182, 284], tl=17484, v=true] died, message: 'Villager was slain by Shulker Bullet'
+[19:30:38] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[19:30:38] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[19:30:46] [Server thread/INFO]: Villager Villager['Villager'/55771, uuid='cad36c79-38cc-4bce-a178-865e960fdc5b', l='ServerLevel[world]', x=-2362.45, y=42.06, z=582.31, cpos=[-148, 36], tl=134, v=true] died, message: 'Villager tried to swim in lava'
+[19:30:46] [Server thread/INFO]: Villager Villager['Villager'/55774, uuid='4abbb80d-fa22-41b3-a0e6-9408c274cd7a', l='ServerLevel[world]', x=-2363.68, y=42.68, z=583.62, cpos=[-148, 36], tl=134, v=true] died, message: 'Villager tried to swim in lava'
+[19:30:53] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] volcon2
+[19:30:53] [Server thread/INFO]: [Xautral: Teleported 143 entities to [Volcanos] volcon2]
+[19:30:54] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:30:56] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:30:56] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:31:03] [Async Chat Thread - #51/INFO]: [Not Secure] <volcon2> queins murio
+[19:31:40] [Server thread/INFO]: Xautral issued server command: /summon minecraft:lightning_bolt
+[19:31:40] [Server thread/INFO]: [Xautral: Summoned new Lightning Bolt]
+[19:31:41] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Surge Protector]
+[19:31:41] [Server thread/INFO]: Xautral has made the advancement [Surge Protector]
+[19:31:46] [Server thread/INFO]: Xautral issued server command: /summon minecraft:lightning_bolt
+[19:31:46] [Server thread/INFO]: [Xautral: Summoned new Lightning Bolt]
+[19:32:00] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:32:05] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:32:24] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.stars master @a ~ ~ ~ 0.6 1 1
+[19:32:24] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.stars to 3 players]
+[19:32:32] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:32:45] [Server thread/INFO]: Xautral issued server command: /ie enchant multishot 0
+[19:32:49] [Server thread/INFO]: Xautral issued server command: /tp @n[type=minecraft:witch]
+[19:32:49] [Server thread/INFO]: [Xautral: Teleported Xautral to Witch]
+[19:32:53] [Server thread/INFO]: Villager Villager['Villager'/37807, uuid='36bc1eb0-5cfc-4ba1-b306-bf242cd82685', l='ServerLevel[world]', x=-19006.70, y=52.00, z=4570.25, cpos=[-1188, 285], tl=19377, v=true] died, message: 'Villager hit the ground too hard'
+[19:33:09] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:33:11] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:33:11] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:33:24] [Server thread/INFO]: Xautral issued server command: /execute as @n[type=minecraft:villager] run say Este volcon2 es una putita
+[19:33:24] [Server thread/INFO]: [Not Secure] [Librarian] Este volcon2 es una putita
+[19:33:28] [Server thread/INFO]: Xautral issued server command: /execute as @n[type=minecraft:villager] run say Eso es lo que es.
+[19:33:28] [Server thread/INFO]: [Not Secure] [Librarian] Eso es lo que es.
+[19:33:36] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> que dijiste perra
+[19:33:42] [Server thread/INFO]: Xautral issued server command: /execute as @n[type=minecraft:villager] run say imbecil
+[19:33:42] [Server thread/INFO]: [Not Secure] [Villager] imbecil
+[19:34:04] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> y si agrego frases de mobs al matarte?
+[19:34:12] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> y si le agregas voz
