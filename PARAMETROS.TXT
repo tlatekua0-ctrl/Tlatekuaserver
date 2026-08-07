@@ -5,7 +5,7 @@ sudo playit --socket-path /run/playit/playitd.sock
 java -Xms8G -Xmx12G -Dcom.mojang.eula.agree=true -jar server.jar --nogui --bonusChest
 
 git add .
-git commit -m "Changes XII" [12]
+git commit -m "Changes XIII" [13]
 git push origin main
 
 curl -fsSL https://packages.playit.gg/install.sh | bash
