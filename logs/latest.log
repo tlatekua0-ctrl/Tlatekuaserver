@@ -6066,3 +6066,77 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 [21:03:21] [Server thread/INFO]: [Xautral: Teleported Pillager to Xautral]
 [21:03:25] [Async Chat Thread - #82/INFO]: [Not Secure] <Xautral> nose
 [21:03:32] [Server thread/INFO]: Xautral issued server command: /tps
+[21:04:23] [Server thread/INFO]: Xautral issued server command: /kill @e[type=#illager]
+[21:04:23] [Server thread/INFO]: [Xautral: Killed 2 entities]
+[21:04:27] [Server thread/INFO]: Xautral issued server command: /kill @e[type=#witch]
+[21:04:29] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> wtf
+[21:04:29] [Server thread/INFO]: Xautral issued server command: /kill @e[type=#witch]
+[21:04:32] [Server thread/INFO]: Xautral issued server command: /kill @e[type=witch]
+[21:04:32] [Server thread/INFO]: [Xautral: Killed 2 entities]
+[21:04:34] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> hay como un error
+[21:04:38] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> de que
+[21:04:40] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> las brujas se curan a los ravagers
+[21:04:49] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> deja veo si solo fue eso o pasa seguido
+[21:05:00] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> pero no puedo hacer nada
+[21:05:04] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> ah no
+[21:05:07] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> es momentaneo
+[21:05:08] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:05:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:05:16] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> osea si caeran?
+[21:05:18] [Server thread/INFO]: Xautral issued server command: /tp @e[type=item] ~ ~-3 ~
+[21:05:18] [Server thread/INFO]: [Xautral: Teleported 18 entities to -18665.574177, 83.375778, 3899.300000]
+[21:05:18] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> si
+[21:05:19] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:05:20] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> tarde o temprnao
+[21:05:23] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> s
+[21:05:26] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:05:50] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> ultima raid
+[21:05:53] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> despues no se que hare
+[21:05:55] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> otra granja
+[21:06:45] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> igual es buena pa xp
+[21:06:54] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> mas o menos
+[21:07:08] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> eso que es
+[21:07:13] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> bala mágica
+[21:07:44] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> una granja de comida
+[21:07:45] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> tal ves
+[21:07:50] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> estoy casi muerto JAJA de comida
+[21:08:40] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> jajaa
+[21:08:46] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> un barco literalmente en una piza sobre el agua
+[21:08:58] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> como
+[21:09:00] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> vera
+[21:09:05] [Async Chat Thread - #84/INFO]: [Not Secure] <Xautral> luego te tepeo
+[21:09:24] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> wtf esto farmea muy rico
+[21:09:39] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> no creo que gan haya hecho una granja de esto
+[21:09:46] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> el solo mataba a esos esqueletos chetos
+[21:09:57] [Async Chat Thread - #84/INFO]: [Not Secure] <volcon2> mnrd
+[21:10:01] [Server thread/INFO]: [Volcanos] volcon2 has reached the goal [Postmortal]
+[21:11:02] [Async Chat Thread - #86/INFO]: [Not Secure] <volcon2> se me lio
+[21:11:05] [Async Chat Thread - #86/INFO]: [Not Secure] <Xautral> por que
+[21:11:05] [Async Chat Thread - #86/INFO]: [Not Secure] <volcon2> con los vex
+[21:11:06] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:11:06] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[21:11:09] [Async Chat Thread - #86/INFO]: [Not Secure] <Xautral> 923r923 67283472+ 2
+[21:12:16] [Async Chat Thread - #88/INFO]: [Not Secure] <volcon2> que buena granja
+[21:12:19] [Async Chat Thread - #88/INFO]: [Not Secure] <volcon2> ay de comida?
+[21:12:23] [Async Chat Thread - #88/INFO]: [Not Secure] <volcon2> ni guarde las cords espera
+[21:14:14] [Async Chat Thread - #90/INFO]: [Not Secure] <Xautral> pinche slime
+[21:14:18] [Async Chat Thread - #90/INFO]: [Not Secure] <volcon2> quie?
+[21:14:26] [Async Chat Thread - #90/INFO]: [Not Secure] <Xautral> su pinche aviso "ya no voy a poder jugar más opr el día, perdon"
+[21:14:29] [Async Chat Thread - #90/INFO]: [Not Secure] <Xautral> yo pensé que le paso alg
+[21:14:32] [Async Chat Thread - #90/INFO]: [Not Secure] <Xautral> el wey solo se va a dormir
+[21:14:33] [Async Chat Thread - #91/INFO]: [Not Secure] <volcon2> JAJA
+[21:14:37] [Async Chat Thread - #91/INFO]: [Not Secure] <Xautral> es como
+[21:14:42] [Async Chat Thread - #91/INFO]: [Not Secure] <volcon2> hubiera dicho que no queria jugare
+[21:14:45] [Async Chat Thread - #91/INFO]: [Not Secure] <Xautral> chicos, hoy no voy a poder abrir el server por que finalmente voy a descansar en paz
+[21:14:52] [Async Chat Thread - #91/INFO]: [Not Secure] <Xautral> y realmente me voy ad ormir
+[21:14:53] [Async Chat Thread - #91/INFO]: [Not Secure] <Xautral> sabes
+[21:14:58] [Async Chat Thread - #91/INFO]: [Not Secure] <Xautral> algo así se siente verlo
+[21:15:08] [Async Chat Thread - #91/INFO]: [Not Secure] <volcon2> yo cuando te digo que no puedo jugar es por que usan la pc todo el dia
+[21:15:12] [Async Chat Thread - #91/INFO]: [Not Secure] <volcon2> y yo la uso un dia dsp
+[21:16:29] [Async Chat Thread - #92/INFO]: [Not Secure] <Xautral> okey ya
+[21:16:35] [Server thread/INFO]: Xautral issued server command: /effect give volcon2 minecraft:regeneration 25 25 false
+[21:16:35] [Server thread/INFO]: [Xautral: Applied effect Regeneration to [Volcanos] volcon2]
+[21:16:47] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:17:18] [Server thread/INFO]: [Not Secure] [Server] afk
+[21:17:21] [Server thread/INFO]: [Not Secure] [Server] me voy a estirar unr ato
+[21:17:25] [Async Chat Thread - #92/INFO]: [Not Secure] <volcon2> okk
