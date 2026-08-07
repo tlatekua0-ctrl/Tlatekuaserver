@@ -4602,3 +4602,387 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 [19:33:42] [Server thread/INFO]: [Not Secure] [Villager] imbecil
 [19:34:04] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> y si agrego frases de mobs al matarte?
 [19:34:12] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> y si le agregas voz
+[19:34:53] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> no
+[19:34:56] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> o bueno
+[19:34:57] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> tesa era la ide
+[19:35:01] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> meterles voz con el /say
+[19:35:12] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[19:35:12] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[19:35:13] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:35:16] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> haber
+[19:35:21] [Async Chat Thread - #53/INFO]: [Not Secure] <Xautral> sugiere un mob y una frase de este al matarte
+[19:35:25] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> mmm
+[19:35:38] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> el del zombie chiquito creo que en su descripcion dice
+[19:35:49] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyZombie minecraft.killed_by:minecraft.zombie
+[19:35:49] [Server thread/INFO]: [Xautral: Created new objective [killedbyZombie]]
+[19:35:51] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> solo tengo del zombie w
+[19:35:53] [Async Chat Thread - #54/INFO]: [Not Secure] <volcon2> deja la busco
+[19:35:58] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> an
+[19:36:06] [Server thread/INFO]: Xautral issued server command: /fill 1 6 16
+[19:36:20] [Server thread/INFO]: Xautral issued server command: /fill 1 6 16 -7 1 24 light
+[19:36:20] [Server thread/INFO]: [Xautral: Successfully filled 486 block(s)]
+[19:37:35] [Server thread/INFO]: Xautral issued server command: /summon minecraft:zombie
+[19:37:35] [Server thread/INFO]: [Xautral: Summoned new Zombie]
+[19:37:36] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[19:37:41] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:resistance
+[19:37:41] [Server thread/INFO]: [Xautral: Removed effect Resistance from Xautral]
+[19:37:52] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:saturation
+[19:37:52] [Server thread/INFO]: [Xautral: Removed effect Saturation from Xautral]
+[19:38:02] [Server thread/INFO]: Xautral was slain by Zombie
+[19:38:02] [Server thread/INFO]: [Not Secure] [Zombie] gg ez
+[19:38:07] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> si
+[19:38:08] [Async Chat Thread - #55/INFO]: [Not Secure] <volcon2> ese maldito
+[19:38:08] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> ya ta
+[19:38:09] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:38:30] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Hot Stuff]
+[19:38:38] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbySkeleton minecraft.killed_by:minecraft.skeleton
+[19:38:38] [Server thread/INFO]: [Xautral: Created new objective [killedbySkeleton]]
+[19:38:56] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> una frase para el esqueleto?
+[19:39:19] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.xtal master @a ~ ~ ~ 0.7 1 1
+[19:39:19] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.xtal to 3 players]
+[19:39:20] [Async Chat Thread - #55/INFO]: [Not Secure] <volcon2> mis huesos son fuertes como tu. levantate!
+[19:39:24] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> 7
+[19:39:30] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> voy a ponerle subtitulos
+[19:40:21] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> ya
+[19:40:23] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> haber
+[19:40:25] [Server thread/INFO]: Xautral issued server command: /summon minecraft:skeleton
+[19:40:25] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[19:40:26] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[19:40:34] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:40:53] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[19:41:10] [Async Chat Thread - #55/INFO]: [Not Secure] <volcon2> i see you
+[19:41:16] [Async Chat Thread - #55/INFO]: [Not Secure] <Xautral> ese le pondré al warden
+[19:41:31] [Server thread/INFO]: Xautral was shot by Skeleton
+[19:41:31] [Server thread/INFO]: [Not Secure] [Skeleton] *bone rattling*
+[19:41:37] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:41:42] [Server thread/INFO]: Villager Villager['Villager'/43811, uuid='449b374d-0c9d-4931-80a0-44a0bfcb54a2', l='ServerLevel[world]', x=-19210.16, y=101.56, z=4553.36, cpos=[-1201, 284], tl=3698, v=true] died, message: 'Villager was squished too much'
+[19:41:48] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyWarden minecraft.killed_by:minecraft.warden
+[19:41:48] [Server thread/INFO]: [Xautral: Created new objective [killedbyWarden]]
+[19:41:59] [Server thread/INFO]: Villager Villager['Villager'/44456, uuid='57d305c9-bb27-4a57-9142-8fc50bf0747c', l='ServerLevel[world]', x=-19208.88, y=101.50, z=4551.87, cpos=[-1201, 284], tl=3020, v=true] died, message: 'Villager was squished too much'
+[19:42:08] [Server thread/INFO]: Villager Villager['Villager'/44319, uuid='66fa32a9-47cd-4404-b64b-f49bdd22f545', l='ServerLevel[world]', x=-19208.82, y=102.00, z=4551.85, cpos=[-1201, 284], tl=3392, v=true] died, message: 'Villager was squished too much'
+[19:42:31] [Server thread/INFO]: Villager Villager['Villager'/43348, uuid='981e1a3a-59a0-435d-9744-5c12d6c55440', l='ServerLevel[world]', x=-19240.28, y=80.56, z=4590.25, cpos=[-1203, 286], tl=7790, v=true] died, message: 'Villager was squished too much'
+[19:42:32] [Server thread/INFO]: Villager Villager['Villager'/44315, uuid='92d81f5a-1c38-423a-bb5b-dfb67b2bf274', l='ServerLevel[world]', x=-19209.56, y=101.30, z=4551.88, cpos=[-1201, 284], tl=3574, v=true] died, message: 'Villager was squished too much'
+[19:42:33] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> listo
+[19:42:35] [Server thread/INFO]: Xautral issued server command: /summon minecraft:warden
+[19:42:35] [Server thread/INFO]: [Xautral: Summoned new Warden]
+[19:42:36] [Server thread/INFO]: Villager Villager['Villager'/37780, uuid='243e4e86-4430-44bd-8d01-d2533945b640', l='ServerLevel[world]', x=-18978.52, y=62.00, z=4573.27, cpos=[-1187, 285], tl=33482, v=true] died, message: 'Villager was slain by Zombie'
+[19:42:36] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[19:42:36] [Server thread/INFO]: Villager Villager['Villager'/44544, uuid='829349a3-25b1-4a03-84cc-7d73e7bd39ec', l='ServerLevel[world]', x=-19210.11, y=101.56, z=4551.78, cpos=[-1201, 284], tl=3206, v=true] died, message: 'Villager was squished too much'
+[19:42:42] [Server thread/INFO]: Xautral was slain by Warden
+[19:42:42] [Server thread/INFO]: [Not Secure] [Warden] i hear you
+[19:42:44] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:42:50] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> por que no ve el wey
+[19:42:52] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> como que see you
+[19:43:04] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> ah nu ma
+[19:43:09] [Async Chat Thread - #57/INFO]: [Not Secure] <Xautral> púedes morir por un pollo sabías?
+[19:43:13] [Server thread/INFO]: Xautral has made the advancement [Sneak 100]
+[19:43:13] [Async Chat Thread - #57/INFO]: [Not Secure] <volcon2> no m aldito
+[19:43:15] [Server thread/INFO]: Xautral issued server command: /kill 3603a259-783c-4a96-acbd-ca2a96e913aa
+[19:43:15] [Server thread/INFO]: [Xautral: Killed Warden]
+[19:43:19] [Server thread/INFO]: Villager Villager['Villager'/44320, uuid='13a59c20-f3af-49d0-af77-e5f2a4858931', l='ServerLevel[world]', x=-19208.89, y=102.00, z=4551.70, cpos=[-1201, 284], tl=3464, v=true] died, message: 'Villager was squished too much'
+[19:43:23] [Server thread/INFO]: Villager Villager['Villager'/44524, uuid='640cfcf3-1c74-41b6-a8c7-8550259d88b4', l='ServerLevel[world]', x=-19209.56, y=101.00, z=4551.83, cpos=[-1201, 284], tl=3732, v=true] died, message: 'Villager was squished too much'
+[19:43:28] [Server thread/INFO]: Villager Villager['Villager'/43605, uuid='963243d5-67a2-49e4-9fa4-cbecc06a62bf', l='ServerLevel[world]', x=-19208.85, y=101.54, z=4551.86, cpos=[-1201, 284], tl=5378, v=true] died, message: 'Villager was squished too much'
+[19:43:32] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives list
+[19:43:36] [Server thread/INFO]: Villager Villager['Villager'/37878, uuid='eae7f3aa-292d-466e-a81b-dd21da5f063c', l='ServerLevel[world]', x=-19006.70, y=53.00, z=4570.96, cpos=[-1188, 285], tl=35781, v=true] died, message: 'Villager hit the ground too hard'
+[19:43:45] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyWither minecraft.killed_by:minecraft.wither_skull
+[19:43:45] [Server thread/INFO]: [Xautral: Created new objective [killedbyWither]]
+[19:44:39] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> nada mas me falta 1 aldeano
+[19:44:41] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> y 1 pocion
+[19:44:43] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> ominosa
+[19:44:46] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> donde se consigue?
+[19:44:50] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.logic master @a ~ ~ ~ 0.6 1 1
+[19:44:50] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.logic to 3 players]
+[19:44:55] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> en chambers o matando pillagers
+[19:45:05] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> pero solo al boss
+[19:45:10] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> yo me he encontrado 3
+[19:45:15] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> y ni una aparece el boss
+[19:45:20] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> y me quedo ahi como 5 minutos o 8
+[19:45:32] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> wey
+[19:45:35] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no mames a mi me salió en putiza
+[19:45:37] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> xau
+[19:45:42] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> que
+[19:45:44] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> destruiste el pto atril vrdd
+[19:45:48] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> este aldeano tenia repa
+[19:46:04] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no destrui ningun atril
+[19:46:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> estoy aqui programando las frases w
+[19:46:33] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyCreeper minecraft.killed_by:minecraft.creeper
+[19:46:33] [Server thread/INFO]: [Xautral: Created new objective [killedbyCreeper]]
+[19:46:49] [Async Chat Thread - #59/INFO]: [Not Secure] <Slimegolembros> a
+[19:46:50] [Async Chat Thread - #59/INFO]: [Not Secure] <Slimegolembros> xau
+[19:46:59] [Async Chat Thread - #59/INFO]: [Not Secure] <Slimegolembros> me acabo de enterar que sigo en el minecraft
+[19:47:01] [Async Chat Thread - #59/INFO]: [Not Secure] <Slimegolembros> XD
+[19:47:09] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> como que XD
+[19:47:11] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> asd2
+[19:47:15] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> pq no puedes jugar
+[19:47:24] [Server thread/INFO]: Xautral issued server command: /summon creeper
+[19:47:24] [Server thread/INFO]: [Xautral: Summoned new Creeper]
+[19:47:25] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[19:47:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Slimegolembros> me voy a cenar ver una peli y a mimir
+[19:47:29] [Server thread/INFO]: Xautral issued server command: /summon creeper
+[19:47:29] [Server thread/INFO]: [Xautral: Summoned new Creeper]
+[19:47:30] [Server thread/INFO]: Xautral was blown up by Creeper
+[19:47:31] [Server thread/INFO]: [Not Secure] [Creeper] Creeper!... Aww man.
+[19:47:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> okey Slimegolembros
+[19:47:38] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:47:40] [Async Chat Thread - #60/INFO]: [Not Secure] <Slimegolembros> antes mi amigo estaba jugando al juego ese que le compre que ya te dige
+[19:47:42] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> repa denuevo putas
+[19:47:47] [Async Chat Thread - #60/INFO]: [Not Secure] <Slimegolembros> por eso no pude jugar
+[19:47:50] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> okey Slimegolembros
+[19:47:52] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> entonces mañana
+[19:47:54] [Async Chat Thread - #60/INFO]: [Not Secure] <Slimegolembros> bye
+[19:47:55] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> o en la noche
+[19:47:56] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> *acá
+[19:47:58] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> b
+[19:47:59] [Async Chat Thread - #60/INFO]: [Not Secure] <Slimegolembros> xd
+[19:48:00] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> ye
+[19:48:04] [Server thread/INFO]: Slimegolembros lost connection: Disconnected
+[19:48:05] [Server thread/INFO]: Slimegolembros left the game
+[19:48:32] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> me dices cords de una de lasd torres
+[19:48:34] [Async Chat Thread - #60/INFO]: [Not Secure] <volcon2> de pillagers
+[19:48:39] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyEnderman minecraft.killed_by:minecraft.enderman
+[19:48:39] [Server thread/INFO]: [Xautral: Created new objective [killedbyEnderman]]
+[19:48:49] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> ya voy
+[19:48:50] [Async Chat Thread - #60/INFO]: [Not Secure] <Xautral> aguanta
+[19:49:38] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyPillager minecraft.killed_by:minecraft.pillager
+[19:49:38] [Server thread/INFO]: [Xautral: Created new objective [killedbyPillager]]
+[19:50:21] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyEvoker minecraft.killed_by:minecraft.evoker
+[19:50:21] [Server thread/INFO]: [Xautral: Created new objective [killedbyEvoker]]
+[19:51:15] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add killedbyVindicator minecraft.killed_by:minecraft.vindicator
+[19:51:15] [Server thread/INFO]: [Xautral: Created new objective [killedbyVindicator]]
+[19:51:45] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> ya
+[19:51:46] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[19:51:46] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[19:51:50] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:pillager_outpost
+[19:51:50] [Server thread/INFO]: Locating element minecraft:pillager_outpost took 168 ms
+[19:52:04] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> -18288 ~ 4800
+[19:52:06] [Async Chat Thread - #61/INFO]: [Not Secure] <Xautral> te tepeo?
+[19:52:08] [Async Chat Thread - #61/INFO]: [Not Secure] <volcon2> si
+[19:52:09] [Async Chat Thread - #61/INFO]: [Not Secure] <volcon2> porfa
+[19:52:13] [Server thread/INFO]: Xautral issued server command: /tp @s -18288 ~ 4800
+[19:52:13] [Server thread/INFO]: [Xautral: Teleported Xautral to -18287.500000, 60.000000, 4800.500000]
+[19:52:15] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[19:52:18] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[19:52:22] [Server thread/INFO]: Xautral issued server command: /tp volcon2 x
+[19:52:23] [Async Chat Thread - #61/INFO]: [Not Secure] <volcon2> esta lejos la perra
+[19:52:23] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[19:52:23] [Server thread/INFO]: [Xautral: Teleported [Volcanos] volcon2 to Xautral]
+[19:52:55] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:52:55] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Curse]]
+[19:53:03] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[19:53:03] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
+[19:53:16] [Async Chat Thread - #61/INFO]: [Not Secure] <volcon2> pa que sirven estosa weyes
+[19:53:20] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:53:20] [Server thread/INFO]: [Xautral: Replaced a slot on Pillager with [Curse]]
+[19:53:39] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:53:39] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 4 entities]
+[19:53:43] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:53:43] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 2 entities]
+[19:53:45] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:53:45] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:53:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:53:47] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Curse]]
+[19:53:51] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:53:51] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Curse]]
+[19:53:53] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:53:53] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 2 entities]
+[19:53:53] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Voluntary Exile]
+[19:53:54] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:53:54] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to Pillager's item]
+[19:53:55] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:53:56] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:53:59] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:54:01] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:54:01] [Server thread/INFO]: [Xautral: Replaced a slot on 2 entities with [Curse]]
+[19:54:11] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Ol' Betsy]
+[19:54:11] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Take Aim]
+[19:54:18] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:54:18] [Server thread/INFO]: [Xautral: Replaced a slot on Pillager with [Air]]
+[19:54:19] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:54:19] [Server thread/INFO]: [Xautral: Replaced a slot on Pillager with [Curse]]
+[19:54:21] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:54:21] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to Pillager's item]
+[19:54:22] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:54:22] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to Pillager's item]
+[19:54:29] [Async Chat Thread - #63/INFO]: [Not Secure] <volcon2> para que sirven estas perras azules
+[19:54:34] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> les pones und isco
+[19:54:37] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> les das algo y te lo buscan
+[19:54:40] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:54:40] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to Pillager's item]
+[19:54:44] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:54:44] [Async Chat Thread - #63/INFO]: [Not Secure] <volcon2> como netherite?
+[19:54:47] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:54:47] [Async Chat Thread - #63/INFO]: [Not Secure] <volcon2> y como que un disco
+[19:54:50] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> si
+[19:54:51] [Async Chat Thread - #63/INFO]: [Not Secure] <Xautral> tun disco de musica
+[19:54:55] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> y solo buscan objetos del pis
+[19:54:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:55:00] [Async Chat Thread - #65/INFO]: [Not Secure] <volcon2> pis?
+[19:55:00] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:55:03] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:55:17] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:custom.factorysettings master @a ~ ~ ~ 0.7 1 1
+[19:55:17] [Server thread/INFO]: [Xautral: Played sound minecraft:custom.factorysettings to 2 players]
+[19:55:32] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:32] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:33] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:33] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:33] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:33] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:33] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:33] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:33] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:33] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:34] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:34] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:34] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:34] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:34] [Server thread/INFO]: Xautral issued server command: /summon minecraft:pillager
+[19:55:34] [Server thread/INFO]: [Xautral: Summoned new Pillager]
+[19:55:37] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:55:37] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 10 entities]
+[19:55:39] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:55:39] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 10 entities]
+[19:55:40] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:55:40] [Server thread/INFO]: [Xautral: Replaced a slot on 10 entities with [Curse]]
+[19:56:04] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:56:04] [Server thread/INFO]: [Xautral: Replaced a slot on 19 entities with [Curse]]
+[19:56:05] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:56:05] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 19 entities]
+[19:56:06] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:56:06] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 19 entities]
+[19:56:15] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:56:15] [Server thread/INFO]: [Xautral: Replaced a slot on 18 entities with [Curse]]
+[19:56:53] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:56:53] [Server thread/INFO]: [Xautral: Replaced a slot on 10 entities with [Curse]]
+[19:57:08] [Async Chat Thread - #66/INFO]: [Not Secure] <volcon2> wtf
+[19:57:13] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:57:13] [Server thread/INFO]: [Xautral: Replaced a slot on 11 entities with [Curse]]
+[19:57:15] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:57:15] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 11 entities]
+[19:57:16] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:57:16] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 11 entities]
+[19:57:24] [Async Chat Thread - #66/INFO]: [Not Secure] <Xautral> flechas mágicas "Curse"
+[19:57:31] [Server thread/INFO]: Xautral issued server command: /ie rename &c&lCurse
+[19:57:43] [Server thread/INFO]: Xautral issued server command: /ie lore add &7&lSpell&7 Arrow
+[19:57:47] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:57:47] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 10 entities]
+[19:57:49] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:57:49] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 10 entities]
+[19:57:52] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:57:52] [Server thread/INFO]: [Xautral: Replaced a slot on 10 entities with [Curse]]
+[19:58:24] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> con 3 pociones tamos ready
+[19:58:27] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> te hicieron mierda
+[19:58:32] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:58:32] [Server thread/INFO]: [Xautral: Replaced a slot on 8 entities with [Curse]]
+[19:58:37] [Server thread/INFO]: [Volcanos] volcon2 has made the advancement [Who's the Pillager Now?]
+[19:58:44] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:58:44] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 18 entities]
+[19:58:45] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:58:45] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 18 entities]
+[19:58:48] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:58:48] [Server thread/INFO]: [Xautral: Replaced a slot on 18 entities with [Curse]]
+[19:58:52] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:58:52] [Server thread/INFO]: [Xautral: Replaced a slot on 18 entities with [Curse]]
+[19:58:54] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:58:54] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 17 entities]
+[19:58:55] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:58:55] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 17 entities]
+[19:59:08] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> ya tienes el de mal presagio?
+[19:59:11] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[19:59:13] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> ya
+[19:59:23] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> sip
+[19:59:25] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> 4
+[19:59:27] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:pillager] Xautral
+[19:59:27] [Server thread/INFO]: [Xautral: Teleported 14 entities to Xautral]
+[19:59:33] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:quick_charge 3
+[19:59:33] [Server thread/INFO]: [Xautral: Applied enchantment Quick Charge III to 14 entities]
+[19:59:35] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[19:59:35] [Server thread/INFO]: [Xautral: Replaced a slot on 13 entities with [Curse]]
+[19:59:38] [Server thread/INFO]: Xautral issued server command: /enchant @e[type=minecraft:pillager] minecraft:multishot
+[19:59:38] [Server thread/INFO]: [Xautral: Applied enchantment Multishot to 12 entities]
+[19:59:39] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> wtf
+[19:59:41] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> te rastrearon
+[19:59:52] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> hermano pues cuanto dinero les debes
+[20:00:02] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> los de coppel cuando no les abres
+[20:00:09] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> mal presagio v
+[20:00:12] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> que ñico
+[20:00:16] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> "ñico"
+[20:00:29] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:pillager] weapon.offhand from entity Xautral weapon
+[20:00:29] [Server thread/INFO]: [Xautral: Replaced a slot on 9 entities with [Curse]]
+[20:00:45] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:pillager] minecraft:speed infinite 5 tr
+[20:00:47] [Server thread/INFO]: Xautral issued server command: /effect give @e[type=minecraft:pillager] minecraft:speed infinite 5 true
+[20:00:47] [Server thread/INFO]: [Xautral: Applied effect Speed to 5 targets]
+[20:00:52] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[20:00:52] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[20:01:04] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> wtf
+[20:01:18] [Server thread/INFO]: Xautral issued server command: /
+[20:01:19] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[20:01:19] [Netty Epoll IO #0/INFO]: Disconnecting Xautral for sending keepalive response (10169817) out-of-order!
+[20:01:19] [Server thread/INFO]: Xautral lost connection: Timed out
+[20:01:19] [Server thread/INFO]: Xautral left the game
+[20:01:22] [Server thread/INFO]: [Not Secure] [Server] me trabe
+[20:01:34] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> qie
+[20:02:08] [User Authenticator #8/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[20:02:36] [Server thread/INFO]: Xautral joined the game
+[20:02:36] [Server thread/INFO]: Xautral[/127.78.182.87:60447] logged in with entity id 71653 at ([minecraft:overworld]-18565.18186439849, 64.77310175407608, 4750.754562293856)
+[20:02:54] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> como te la pasaste con tus amiguitos
+[20:02:57] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[20:02:57] [Server thread/INFO]: [Xautral: Teleported Xautral to [Volcanos] volcon2]
+[20:03:00] [Async Chat Thread - #71/INFO]: [Not Secure] <volcon2> qe
+[20:03:02] [Server thread/INFO]: Villager Villager['Villager'/72637, uuid='7bd9d050-1cc5-4c77-a5ca-27d19bb519be', l='ServerLevel[world]', x=-19209.57, y=101.00, z=4551.90, cpos=[-1201, 284], tl=29, v=true] died, message: 'Villager was squished too much'
+[20:03:05] [Server thread/INFO]: Villager Villager['Villager'/72630, uuid='dcfebab4-9b93-47cf-a867-e300265ea5b5', l='ServerLevel[world]', x=-19210.29, y=101.56, z=4552.30, cpos=[-1201, 284], tl=81, v=true] died, message: 'Villager was squished too much'
+[20:03:06] [Server thread/INFO]: Villager Villager['Villager'/72704, uuid='52089535-b1ab-401b-9936-a3d11f11f46c', l='ServerLevel[world]', x=-19210.10, y=101.56, z=4552.48, cpos=[-1201, 284], tl=100, v=true] died, message: 'Villager was squished too much'
+[20:03:06] [Server thread/INFO]: Villager Villager['Villager'/72612, uuid='78924058-c942-4ae4-8b69-d74f7bb9a0a7', l='ServerLevel[world]', x=-19210.19, y=101.56, z=4551.76, cpos=[-1201, 284], tl=104, v=true] died, message: 'Villager was squished too much'
+[20:03:07] [Server thread/INFO]: Villager Villager['Villager'/72659, uuid='a933169f-6ef3-4a61-acef-6f3378447c86', l='ServerLevel[world]', x=-19208.73, y=101.50, z=4551.82, cpos=[-1201, 284], tl=114, v=true] died, message: 'Villager was squished too much'
+[20:03:07] [Server thread/INFO]: Villager Villager['Villager'/72621, uuid='8c38c1d2-21a6-478f-a28b-16a6e88d6f80', l='ServerLevel[world]', x=-19210.16, y=101.60, z=4552.50, cpos=[-1201, 284], tl=116, v=true] died, message: 'Villager was squished too much'
+[20:03:07] [Server thread/INFO]: Villager Villager['Villager'/72693, uuid='7d569968-27c0-465f-9f8e-9d3faaaf7540', l='ServerLevel[world]', x=-19210.10, y=101.56, z=4551.79, cpos=[-1201, 284], tl=119, v=true] died, message: 'Villager was squished too much'
+[20:03:07] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[20:03:07] [Server thread/INFO]: [Xautral: Replaced a slot on 27 entities with [Curse]]
+[20:03:07] [Server thread/INFO]: Villager Villager['Villager'/72592, uuid='815ddb40-6078-4789-9174-19a3c8914f04', l='ServerLevel[world]', x=-19210.16, y=101.56, z=4552.34, cpos=[-1201, 284], tl=129, v=true] died, message: 'Villager was squished too much'
+[20:03:09] [Server thread/INFO]: Villager Villager['Villager'/72596, uuid='39e767d3-1747-4786-b196-386322f8c2ba', l='ServerLevel[world]', x=-19210.16, y=101.56, z=4551.87, cpos=[-1201, 284], tl=161, v=true] died, message: 'Villager was squished too much'
+[20:03:10] [Server thread/INFO]: Villager Villager['Villager'/72698, uuid='189f61c2-e5e5-4ba9-9046-c13d4b2a9a8f', l='ServerLevel[world]', x=-19210.14, y=101.56, z=4552.68, cpos=[-1201, 284], tl=182, v=true] died, message: 'Villager was squished too much'
+[20:03:11] [Server thread/INFO]: Villager Villager['Villager'/72618, uuid='c3e1d24d-df90-489e-b797-f921dd5475ea', l='ServerLevel[world]', x=-19208.89, y=102.52, z=4551.80, cpos=[-1201, 284], tl=199, v=true] died, message: 'Villager was squished too much'
+[20:03:13] [Server thread/INFO]: Villager Villager['Villager'/72734, uuid='49765395-6628-4d30-bdd6-c1af2766962a', l='ServerLevel[world]', x=-19210.20, y=101.56, z=4552.79, cpos=[-1201, 284], tl=233, v=true] died, message: 'Villager was squished too much'
+[20:03:13] [Server thread/INFO]: Villager Villager['Villager'/72664, uuid='5d8d35aa-f2c5-4735-8e18-fe51d12197d4', l='ServerLevel[world]', x=-19210.49, y=101.56, z=4552.57, cpos=[-1201, 284], tl=243, v=true] died, message: 'Villager was squished too much'
+[20:03:16] [Async Chat Thread - #71/INFO]: [Not Secure] <volcon2> wtfd
+[20:03:16] [Server thread/INFO]: Villager Villager['Villager'/72663, uuid='a2bf8cba-c497-4b73-b387-65caf24cfb5c', l='ServerLevel[world]', x=-19208.88, y=102.00, z=4551.83, cpos=[-1201, 284], tl=312, v=true] died, message: 'Villager was squished too much'
+[20:03:17] [Async Chat Thread - #71/INFO]: [Not Secure] <volcon2> siguen
+[20:03:21] [Server thread/INFO]: Villager Villager['Villager'/72766, uuid='3a720f41-71df-47d5-a7a0-0e7d7244bba3', l='ServerLevel[world]', x=-19210.18, y=101.56, z=4551.75, cpos=[-1201, 284], tl=395, v=true] died, message: 'Villager was squished too much'
+[20:03:21] [Async Chat Thread - #71/INFO]: [Not Secure] <volcon2> si spawnean aca
+[20:03:22] [Server thread/INFO]: Villager Villager['Villager'/72703, uuid='4a0d24b6-4ea7-42f7-84da-a2781153c6bc', l='ServerLevel[world]', x=-19210.13, y=101.56, z=4552.54, cpos=[-1201, 284], tl=415, v=true] died, message: 'Villager was squished too much'
+[20:03:22] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:skeleton] ~ ~-2 ~
+[20:03:22] [Server thread/INFO]: [Xautral: Teleported 30 entities to -19042.141996, 65.000484, 4708.008578]
+[20:03:23] [Server thread/INFO]: Villager Villager['Villager'/72655, uuid='39c1da4b-b0c1-4e56-b9aa-85fdb4eb12c6', l='ServerLevel[world]', x=-19210.11, y=101.56, z=4551.82, cpos=[-1201, 284], tl=438, v=true] died, message: 'Villager was squished too much'
+[20:03:27] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[20:03:27] [Server thread/INFO]: [Xautral: Summoned new Iron Golem]
+[20:03:28] [Server thread/INFO]: Villager Villager['Villager'/72726, uuid='808ea7ec-5c6e-464a-b308-27a980e7ea80', l='ServerLevel[world]', x=-19210.18, y=101.56, z=4553.24, cpos=[-1201, 284], tl=545, v=true] died, message: 'Villager was squished too much'
+[20:03:29] [Server thread/INFO]: Villager Villager['Villager'/72613, uuid='ece4aa22-3def-4923-a6e0-52075b0fe9dc', l='ServerLevel[world]', x=-19210.14, y=101.56, z=4553.11, cpos=[-1201, 284], tl=566, v=true] died, message: 'Villager was squished too much'
+[20:03:33] [Server thread/INFO]: Villager Villager['Villager'/72667, uuid='faf079fb-49ef-474c-bbde-707df6b8f133', l='ServerLevel[world]', x=-19210.16, y=101.56, z=4551.87, cpos=[-1201, 284], tl=637, v=true] died, message: 'Villager was squished too much'
+[20:03:43] [Server thread/INFO]: Villager Villager['Villager'/72652, uuid='8ca43b8c-8a25-465b-b2b7-4c69afd79ae2', l='ServerLevel[world]', x=-19208.81, y=102.00, z=4551.79, cpos=[-1201, 284], tl=657, v=true] died, message: 'Villager was squished too much'
+[20:03:44] [Server thread/INFO]: Villager Villager['Villager'/72674, uuid='f3d502b6-eab1-4620-a589-4086fc340105', l='ServerLevel[world]', x=-19210.11, y=101.56, z=4551.85, cpos=[-1201, 284], tl=663, v=true] died, message: 'Villager was squished too much'
+[20:03:47] [Server thread/INFO]: Villager Villager['Villager'/72676, uuid='23c08ff2-d7aa-4ee4-9ff5-6addf6a81b9d', l='ServerLevel[world]', x=-19210.13, y=101.56, z=4551.74, cpos=[-1201, 284], tl=721, v=true] died, message: 'Villager was squished too much'
+[20:03:49] [Server thread/INFO]: Villager Villager['Villager'/72616, uuid='502076fe-e0b7-4b9c-97b5-0123e0b503a9', l='ServerLevel[world]', x=-19208.76, y=101.54, z=4551.89, cpos=[-1201, 284], tl=774, v=true] died, message: 'Villager was squished too much'
+[20:03:57] [Server thread/INFO]: Villager Villager['Villager'/72606, uuid='d23c41dd-4e6e-43c8-9ee7-b6357314a20c', l='ServerLevel[world]', x=-19210.29, y=101.56, z=4551.84, cpos=[-1201, 284], tl=923, v=true] died, message: 'Villager was squished too much'
+[20:03:58] [Server thread/INFO]: Villager Villager['Villager'/72681, uuid='d676b9fd-e240-431d-bb71-a8024a207aa7', l='ServerLevel[world]', x=-19210.12, y=101.56, z=4551.81, cpos=[-1201, 284], tl=947, v=true] died, message: 'Villager was squished too much'
+[20:03:58] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:skeleton] weapon.offhand from entity Xautral weapon
+[20:03:58] [Server thread/INFO]: [Xautral: Replaced a slot on 22 entities with [Curse]]
+[20:04:01] [Server thread/INFO]: Villager Villager['Villager'/72702, uuid='ad7f6ea2-2f81-44c7-8035-4cde7773bc05', l='ServerLevel[world]', x=-19208.81, y=102.00, z=4551.82, cpos=[-1201, 284], tl=1005, v=true] died, message: 'Villager was squished too much'
+[20:04:02] [Server thread/INFO]: Villager Villager['Villager'/72600, uuid='bfb9d083-c3e9-482f-929f-43e458b9bfd8', l='ServerLevel[world]', x=-19210.13, y=101.56, z=4551.83, cpos=[-1201, 284], tl=1025, v=true] died, message: 'Villager was squished too much'
+[20:04:02] [Server thread/INFO]: Villager Villager['Villager'/72654, uuid='b0d25c71-18e0-4dd0-bbe3-0d37fc5dd1d4', l='ServerLevel[world]', x=-19210.25, y=101.56, z=4551.83, cpos=[-1201, 284], tl=1035, v=true] died, message: 'Villager was squished too much'
+[20:04:04] [Server thread/INFO]: Villager Villager['Villager'/72707, uuid='48d98470-bc62-413d-ac47-54ef806803d1', l='ServerLevel[world]', x=-19210.11, y=101.56, z=4551.71, cpos=[-1201, 284], tl=1073, v=true] died, message: 'Villager was squished too much'
+[20:04:05] [Async Chat Thread - #71/INFO]: [Not Secure] <Xautral> no mame
+[20:04:06] [Server thread/INFO]: Villager Villager['Villager'/72602, uuid='aa4638af-c706-427b-b198-f36e70c66747', l='ServerLevel[world]', x=-19210.20, y=101.56, z=4552.43, cpos=[-1201, 284], tl=1115, v=true] died, message: 'Villager was squished too much'
+[20:04:07] [Server thread/INFO]: Villager Villager['Villager'/72712, uuid='02ba68d6-2109-4fee-8c7c-1b2a6ea0c583', l='ServerLevel[world]', x=-19209.63, y=101.33, z=4551.89, cpos=[-1201, 284], tl=1129, v=true] died, message: 'Villager was squished too much'
+[20:04:07] [Server thread/INFO]: Villager Villager['Villager'/72605, uuid='dbb694c1-a6a9-48e9-9c83-f5f1f34e7629', l='ServerLevel[world]', x=-19210.10, y=101.78, z=4551.84, cpos=[-1201, 284], tl=1137, v=true] died, message: 'Villager was squished too much'
+[20:04:08] [Server thread/INFO]: Villager Villager['Villager'/72639, uuid='47b23cae-1293-4b84-a300-f8e551fe8ce1', l='ServerLevel[world]', x=-19208.74, y=101.50, z=4551.87, cpos=[-1201, 284], tl=1142, v=true] died, message: 'Villager was squished too much'
+[20:04:17] [Async Chat Thread - #71/INFO]: [Not Secure] <Xautral> los esqueletos son el primer mob en domianr el spell de "curse"
+[20:04:19] [Server thread/INFO]: Villager Villager['Villager'/72742, uuid='c2f9c2b4-e015-4201-ba3b-1619b190dff9', l='ServerLevel[world]', x=-19208.81, y=101.50, z=4551.90, cpos=[-1201, 284], tl=1220, v=true] died, message: 'Villager was squished too much'
+[20:04:21] [Server thread/INFO]: Villager Villager['Villager'/72673, uuid='6623490d-e055-4456-8c11-6d1c97f5b093', l='ServerLevel[world]', x=-19210.10, y=101.56, z=4552.56, cpos=[-1201, 284], tl=1256, v=true] died, message: 'Villager was squished too much'
+[20:04:22] [Server thread/INFO]: Villager Villager['Villager'/72697, uuid='3a6339f0-8332-4b2f-bd4e-4e71b6c2db0b', l='ServerLevel[world]', x=-19210.11, y=101.56, z=4552.63, cpos=[-1201, 284], tl=1269, v=true] died, message: 'Villager was squished too much'
+[20:04:23] [Server thread/INFO]: Villager Villager['Villager'/72631, uuid='8cca22ea-1529-40a4-8148-b0d90a4a0d8d', l='ServerLevel[world]', x=-19209.20, y=101.50, z=4551.88, cpos=[-1201, 284], tl=1290, v=true] died, message: 'Villager was squished too much'
+[20:04:25] [Async Chat Thread - #71/INFO]: [Not Secure] <Xautral> ahora ya saben como espamear la habilidad
+[20:04:27] [Server thread/INFO]: Villager Villager['Villager'/72633, uuid='48a98ece-306d-4716-8414-d486d13ce37a', l='ServerLevel[world]', x=-19209.73, y=101.56, z=4551.88, cpos=[-1201, 284], tl=1374, v=true] died, message: 'Villager was squished too much'
+[20:04:29] [Async Chat Thread - #71/INFO]: [Not Secure] <volcon2> wtf
+[20:04:30] [Server thread/INFO]: Villager Villager['Villager'/72682, uuid='44999ade-4692-4e27-ad6e-2aa8d41b6017', l='ServerLevel[world]', x=-19210.10, y=101.56, z=4552.52, cpos=[-1201, 284], tl=1428, v=true] died, message: 'Villager was squished too much'
+[20:04:30] [Async Chat Thread - #71/INFO]: [Not Secure] <Xautral> se violaron a un iron golem
+[20:04:32] [Async Chat Thread - #71/INFO]: [Not Secure] <Xautral> :fear:
+[20:04:32] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
